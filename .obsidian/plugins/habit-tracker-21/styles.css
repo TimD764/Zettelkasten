@@ -1,0 +1,316 @@
+/* TODO configure most of these from a new settings page */
+/* TODO test it with the default themes in Obsidian, light and dark */
+div:has(.block-language-habittracker) {
+	/* Colors */
+	--habit-bg: var(--background-primary);
+	--habit-bg-ticked: var(--checkbox-color);
+	--habit-icon-ticked: var(--checkbox-marker-color);
+	--habit-border: 1px solid var(--divider-color);
+	--habit-outer-border: var(--habit-border);
+	--habit-horizontal-border: var(--habit-border);
+	--habit-vertical-border: var(--habit-border);
+	--habit-row-bg-hover: var(--background-secondary);
+	--habit-highlight-weekend: var(--background-secondary);
+	--habit-highlight-names: var(--background-secondary);
+	--habit-container-hover: var(--background-secondary);
+	--habit-tick-hover: var(--color-base-00);
+	--habit-name-text-color: var(--link-color);
+	--habit-header-bg-hover: var(--color-base-100);
+	--habit-header-text-hover: var(--color-base-00);
+
+	/* TODO: make the scroll bar not take vertical space at the bottom at least in synthwave theme */
+
+	/* Typography */
+	--habit-header-font-size: 11px;
+	--habit-name-font-size: 13px;
+
+	/* Cell dimensions */
+	--habit-cell-width: 25px;
+	--habit-cell-height: 32px;
+	--habit-name-max-width: 173px;
+	--habit-name-padding: 8px;
+
+	/* Tick size */
+	--habit-tick-size: 16px;
+
+	/* Border radius */
+	--habit-streak-radius: calc(var(--habit-tick-size) / 2);
+	--habit-tooltip-radius: 3px;
+
+	/* Spacing */
+	--habit-streak-padding: 4px;
+	--habit-tooltip-padding: 2px 6px;
+}
+
+/* Action bar for habit tracker code blocks */
+.ht21-action-bar {
+	display: flex;
+	position: absolute;
+	top: 90%;
+	left: var(--habit-name-padding);
+	right: var(--habit-name-padding);
+	background: var(--background-secondary);
+	border: var(--habit-border)
+	border-radius: 0 0 var(--radius-s) var(--radius-s);
+	padding: var(--habit-name-padding);
+	justify-content: space-between;
+	align-items: center;
+	z-index: 100;
+	font-size: 12px;
+	opacity: 0;
+	transition: all 0.2s ease;
+	box-shadow: var(--shadow-s);
+	pointer-events: none;
+}
+
+/* Show action bar on hover of the code block or its parent container */
+.markdown-source-view.mod-cm6 .cm-content > .cm-lang-habittracker:hover {
+	overflow: visible;
+	contain: none !important;
+}
+.cm-lang-habittracker:hover .ht21-action-bar,
+.cm-preview-code-block.markdown-rendered:has(.block-language-habittracker):hover
+	.ht21-action-bar {
+	opacity: 1;
+	pointer-events: all;
+	top: 100%;
+}
+
+.ht21-action-bar__title {
+	font-weight: 600;
+	color: var(--text-muted);
+}
+
+.ht21-update-dot {
+	position: absolute;
+	top: 2px;
+	right: 2px;
+	width: 8px;
+	height: 8px;
+	background: var(--color-purple);
+	border-radius: 50%;
+	border: 1px solid var(--background-secondary);
+}
+
+.ht21-action-bar__buttons {
+	display: flex;
+	gap: 8px;
+}
+
+.ht21-action-bar__btn {
+	background: var(--interactive-normal);
+	border: var(--habit-border);
+	border-radius: 4px;
+	padding: 4px 8px;
+	font-size: 11px;
+	cursor: pointer;
+	color: var(--text-normal);
+	transition: all 0.2s ease;
+	display: flex;
+	align-items: center;
+	gap: 4px;
+}
+
+.ht21-btn-text {
+	font-size: 11px;
+}
+
+.ht21-action-bar__btn .svg-icon {
+	width: 14px;
+	height: 14px;
+}
+
+.ht21-action-bar__btn:hover {
+	background: var(--interactive-hover);
+	border-color: var(--border-color-hover);
+}
+
+.ht21-action-bar__btn:active {
+	background: var(--interactive-active);
+}
+
+.cm-preview-code-block.markdown-rendered:has(.block-language-habittracker) {
+	padding: 0;
+	font-family: monospace;
+	position: relative;
+}
+
+/* Ensure code blocks in source view also support the action bar */
+.cm-lang-habittracker {
+	position: relative;
+}
+.cm-preview-code-block.markdown-rendered:has(
+		.block-language-habittracker
+	):hover {
+	background-color: var(--habit-container-hover);
+}
+.cm-preview-code-block.markdown-rendered:has(.block-language-habittracker):hover
+	.edit-block-button {
+	display: none !important;
+}
+
+.block-language-habittracker {
+	border: var(--habit-outer-border);
+	border-radius: var(--radius-s);
+	overflow-x: scroll;
+	width: fit-content;
+	max-width: 100%;
+	scrollbar-width: thin;
+}
+
+.habit-tracker {
+	display: grid;
+	grid-template-columns: 1fr repeat(
+			var(--date-columns),
+			var(--habit-cell-width)
+		);
+	width: fit-content;
+	background-color: var(--habit-bg);
+}
+
+.is-readable-line-width .habit-tracker--match-line-length {
+	min-width: calc(var(--file-line-width) - 2px); /* TODO: this is a hack since I know the widht of the border. but it won't scale. figure out a way to fix this that hopefully doesn't break overrides people added in place */
+}
+
+.habit-tracker__row {
+	display: contents;
+}
+
+.habit-tracker__row:has(.habit-tracker__cell:hover) > .habit-tracker__cell {
+	background-color: var(--habit-row-bg-hover);
+}
+
+.habit-tracker__cell {
+	width: var(--habit-cell-width);
+	font-size: var(--habit-header-font-size);
+	height: var(--habit-cell-height);
+	white-space: nowrap;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.habit-tracker__cell:not(:last-child) {
+	border-right: var(--habit-vertical-border);
+}
+.habit-tracker__row:not(.habit-tracker__header) .habit-tracker__cell {
+	border-top: var(--habit-horizontal-border);
+}
+/*
+*/
+
+.habit-tracker__cell--name {
+	padding: 0 var(--habit-name-padding);
+	width: 100%;
+	max-width: var(--habit-name-max-width);
+	justify-content: start;
+	position: sticky;
+	left: 0;
+	z-index: 10;
+	background-color: var(--habit-highlight-names);
+}
+.habit-tracker__cell--name .internal-link {
+	color: var(--habit-name-text-color);
+	max-width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	width: fit-content;
+	display: inline-block;
+	font-size: var(--habit-name-font-size);
+	text-decoration: none;
+}
+.is-readable-line-width
+	.habit-tracker--match-line-length
+	.habit-tracker__cell--name {
+	max-width: 100%;
+}
+
+.habit-tracker__cell--saturday,
+.habit-tracker__cell--sunday {
+	background-color: var(--habit-highlight-weekend);
+	font-weight: bold;
+}
+
+.habit-tracker__header .habit-tracker__cell[data-ht21-pretty-date] {
+	position: relative;
+}
+.habit-tracker__header .habit-tracker__cell[data-ht21-pretty-date]:hover {
+	cursor: pointer;
+	background: var(--habit-header-bg-hover);
+	color: var(--habit-header-text-hover);
+	border-top-left-radius: var(--habit-tooltip-radius);
+	border-top-right-radius: var(--habit-tooltip-radius);
+}
+
+.habit-tracker__header .habit-tracker__cell[data-ht21-pretty-date]:hover:after {
+	background: var(--habit-header-bg-hover);
+	color: var(--habit-header-text-hover);
+	content: attr(data-ht21-pretty-date);
+	left: 50%;
+	padding: var(--habit-tooltip-padding);
+	position: absolute;
+	top: 100%;
+	white-space: nowrap;
+	transform: translateX(-50%);
+	border-radius: var(--habit-tooltip-radius);
+}
+.habit-tracker__header
+	.habit-tracker__cell[data-ht21-pretty-date]:last-child:hover:after {
+	left: auto;
+	right: 0;
+	transform: none;
+	border-top-right-radius: 0;
+}
+
+.habit-tick {
+	line-height: 0;
+	text-align: center;
+	width: var(--habit-cell-width);
+	max-width: var(--habit-cell-width);
+	min-width: var(--habit-cell-width);
+	padding-left: var(--habit-streak-padding);
+	padding-right: var(--habit-streak-padding);
+}
+.habit-tick:hover {
+	cursor: pointer;
+	background-color: var(--habit-tick-hover) !important;
+}
+
+.habit-tick--ticked:before {
+	background: var(--habit-bg-ticked);
+	content: '';
+	display: inline-block;
+	height: var(--habit-tick-size);
+	transition: all 0.3s ease;
+	line-height: var(--habit-tick-size);
+	color: var(--habit-icon-ticked);
+	border-radius: 50%;
+	width: 100%;
+}
+
+.habit-tick--streak {
+	padding-left: 0;
+	padding-right: 0;
+}
+.habit-tick--streak:before {
+	border-radius: 0;
+}
+
+.habit-tick--streak-start {
+	padding-left: var(--habit-streak-padding);
+}
+.habit-tick--streak-start:before {
+	border-top-left-radius: var(--habit-streak-radius);
+	border-bottom-left-radius: var(--habit-streak-radius);
+}
+.habit-tick--streak-end {
+	padding-right: var(--habit-streak-padding);
+}
+.habit-tick--streak-end:before {
+	border-top-right-radius: var(--habit-streak-radius);
+	border-bottom-right-radius: var(--habit-streak-radius);
+}
+.habit-tick--streak + .habit-tick--streak-end:before {
+	content: attr(streak);
+	font-weight: bold;
+}

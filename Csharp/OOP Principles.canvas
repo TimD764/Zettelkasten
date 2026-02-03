@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"e8b93feda4282f4d","type":"text","text":" #CSharp OOP Principles","x":-490,"y":-400,"width":250,"height":60},
+		{"id":"e37db8688bc00ee9","type":"text","text":"Abstraction principle  involves building project in a way that exposes only necessary information while hiding everything that isn't relevant to the user","x":-490,"y":-160,"width":250,"height":200},
+		{"id":"357ef9345d88532e","type":"text","text":"Polymorphism Principle enables different types of objects to pass through the same interface","x":-880,"y":-435,"width":250,"height":130},
+		{"id":"e1a41f492494a46f","type":"text","text":"Encapsulation principle -involves dividing code into separate blocks called classes with methods and attributes. This principle also includes access restrictions such as public private or protected","x":-490,"y":-840,"width":250,"height":275},
+		{"id":"8d5ea781c68a5278","type":"text","text":"Inheritance principle allows to modify classes through inheritance for the purpose of code reusability aw well as establishment of class hierarchy (Parent-child).","x":-100,"y":-472,"width":250,"height":205}
+	],
+	"edges":[
+		{"id":"01a62d31fb2d5df3","fromNode":"e8b93feda4282f4d","fromSide":"right","toNode":"8d5ea781c68a5278","toSide":"left"},
+		{"id":"b65e559ccbc6b95e","fromNode":"e8b93feda4282f4d","fromSide":"bottom","toNode":"e37db8688bc00ee9","toSide":"top"},
+		{"id":"9c0cf52f2d81d62e","fromNode":"e8b93feda4282f4d","fromSide":"top","toNode":"e1a41f492494a46f","toSide":"bottom"},
+		{"id":"79e44b1c3449f0ef","fromNode":"e8b93feda4282f4d","fromSide":"left","toNode":"357ef9345d88532e","toSide":"right"}
+	]
+}

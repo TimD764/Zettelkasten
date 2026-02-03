@@ -1,0 +1,98 @@
+{
+  "pop_state": {
+    "popon": false,
+    "hot": false,
+    "incr": 0
+  },
+  "plot": false,
+  "cmd_list": [
+    {
+      "index": 0,
+      "name": "Task",
+      "tmp_name": "Task",
+      "bindings": [
+        0
+      ],
+      "isPopOver": false
+    },
+    {
+      "index": 1,
+      "name": "Task Priority",
+      "tmp_name": "Task Priority",
+      "bindings": [
+        1
+      ],
+      "isPopOver": false
+    },
+    {
+      "index": 2,
+      "name": "Call out",
+      "tmp_name": "Call out",
+      "bindings": [
+        2
+      ],
+      "isPopOver": false
+    },
+    {
+      "index": 3,
+      "name": "Task + Callout",
+      "tmp_name": "Task + Callout",
+      "bindings": [
+        2,
+        0
+      ],
+      "isPopOver": false
+    }
+  ],
+  "setup_list": [
+    {
+      "index": 0,
+      "all_states": "- \n- [ ] \n- [x] || ✅ {time:: YYYY-MM-DD}\n",
+      "states": [
+        "- ",
+        "- [ ] ",
+        "- [x] || ✅ {time:: YYYY-MM-DD}",
+        ""
+      ],
+      "sorteds": [
+        "- [x] || ✅ {time:: YYYY-MM-DD}",
+        "- [ ] ",
+        "- ",
+        ""
+      ],
+      "states_dict": {}
+    },
+    {
+      "index": 1,
+      "all_states": "- [ ] \n- [ ] #p1 \n- [ ] #p2 \n- [ ] #p3 ",
+      "states": [
+        "- [ ] ",
+        "- [ ] #p1 ",
+        "- [ ] #p2 ",
+        "- [ ] #p3 "
+      ],
+      "sorteds": [
+        "- [ ] #p1 ",
+        "- [ ] #p2 ",
+        "- [ ] #p3 ",
+        "- [ ] "
+      ],
+      "states_dict": {}
+    },
+    {
+      "index": 2,
+      "all_states": "- ? \n- ! \n- ~ ",
+      "states": [
+        "- ? ",
+        "- ! ",
+        "- ~ "
+      ],
+      "sorteds": [
+        "- ? ",
+        "- ! ",
+        "- ~ "
+      ],
+      "states_dict": {}
+    }
+  ]
+}

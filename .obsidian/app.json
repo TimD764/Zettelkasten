@@ -1,0 +1,30 @@
+{
+  "promptDelete": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Zettelkasten",
+  "mobileToolbarCommands": [
+    "editor:undo",
+    "editor:redo",
+    "editor:insert-wikilink",
+    "editor:insert-embed",
+    "editor:insert-tag",
+    "editor:attach-file",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:insert-link",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:insert-footnote",
+    "editor:cycle-list-checklist",
+    "editor:configure-toolbar",
+    "bases:insert",
+    "obsidian-tasks-plugin:edit-task",
+    "obsidian-tasks-plugin:toggle-done",
+    "editor:insert-table"
+  ]
+}

@@ -1,0 +1,18 @@
+# Intellij
+*.iml
+.idea
+
+# npm
+node_modules
+main.js
+yarn.lock
+
+# build
+*.js.map
+
+.prettierignore
+/data.json
+
+.vscode
+
+.DS_Store

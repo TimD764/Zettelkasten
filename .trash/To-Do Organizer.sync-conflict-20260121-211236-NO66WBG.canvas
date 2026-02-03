@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"1fb858bfe409d412","type":"group","x":-1600,"y":-1647,"width":860,"height":400,"label":"Short Term To-Do (Do within next week or two)"},
+		{"id":"25b3cc5fd36ea600","type":"text","text":"Move to the Vivaldi browser","x":-1560,"y":-1620,"width":250,"height":60},
+		{"id":"47290e0a6cac6c17","type":"text","text":"Negotiate dishwasher","x":-1560,"y":-1560,"width":250,"height":60},
+		{"id":"87e6731d8af19757","type":"text","text":" Organise time tracking app","x":-1560,"y":-1500,"width":250,"height":60},
+		{"id":"1f68d201dcd33690","type":"text","text":"Insurance","x":-1560,"y":-1440,"width":250,"height":60},
+		{"id":"8e772d71545f925c","type":"text","text":"Fast way to insert my name surname mail phone debit card address","x":-1560,"y":-1380,"width":250,"height":100},
+		{"id":"bca64eb94b27b93c","type":"text","text":"Drops to clear rainy nose","x":-1300,"y":-1560,"width":250,"height":60},
+		{"id":"b6eaf1679a135721","type":"text","text":"Linux","x":-1300,"y":-1620,"width":98,"height":50},
+		{"id":"42ebb3f3d5c691f7","type":"text","text":"Key from domophobe","x":-1300,"y":-1340,"width":250,"height":60},
+		{"id":"e0f609c476a207aa","type":"text","text":"Set up daily chores","x":-1300,"y":-1400,"width":250,"height":60},
+		{"id":"99c821ff82d9a802","type":"text","text":"Configure time tracker and decide activities to categories","x":-880,"y":-1040,"width":230,"height":100},
+		{"id":"329130d57a268c37","type":"text","text":"Remove YouTube shorts from YouTube","x":-1300,"y":-1500,"width":250,"height":84}
+	],
+	"edges":[]
+}
