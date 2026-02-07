@@ -11,14 +11,17 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "LIsts/Holy Scroll.md",
-                "mode": "source",
-                "source": false
+                "file": "Gambling.canvas",
+                "viewState": {
+                  "x": -766.3034441146245,
+                  "y": 405.10311438149324,
+                  "zoom": -0.6892814323310014
+                }
               },
-              "icon": "lucide-file",
-              "title": "Holy Scroll"
+              "icon": "lucide-layout-dashboard",
+              "title": "Gambling"
             }
           }
         ]
@@ -127,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LIsts/Holy Scroll.md",
+                "file": "Gambling.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Holy Scroll"
+              "title": "Outgoing links from Gambling"
             }
           },
           {
@@ -154,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LIsts/Holy Scroll.md",
+                "file": "Gambling.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Holy Scroll"
+              "title": "Outline of Gambling"
             }
           },
           {
@@ -193,17 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161c95b7c3bf559c",
+  "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
-    "Gambling.canvas",
+    "To-Do Organizer.canvas",
     "LIsts/Holy Scroll.md",
+    "Gambling.canvas",
     "DB subject/Untitled.canvas",
     "DB subject/Pasted image 20260204170341.png",
     "DB subject/Pasted image 20260204142106.png",
     "DB subject/Pasted image 20260204110113.png",
     "DB subject/desktop.ini",
     "DB subject",
-    "To-Do Organizer.canvas",
     "~syncthing~To-Do Organizer.canvas.tmp",
     "My vocal stims.md",
     "Ideas/Custom lab coat.md",
