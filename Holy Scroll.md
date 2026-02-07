@@ -187,4 +187,3 @@ Skills
 6. Singing
 7. Dancing
 8. Typing
-Typing shit

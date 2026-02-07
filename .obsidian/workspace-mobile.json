@@ -56,17 +56,14 @@
             "id": "1344dc8721fd7d5b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "To-Do Organizer.canvas",
-                "viewState": {
-                  "x": -980.5941619112052,
-                  "y": -840.1028832900979,
-                  "zoom": -1.1927426991025718
-                }
+                "file": "Holy Scroll.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "To-Do Organizer"
+              "icon": "lucide-file",
+              "title": "Holy Scroll"
             }
           }
         ],
@@ -194,21 +191,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "time-ruler:Open Time Ruler": false
+      "bases:Create new base": false
     }
   },
   "active": "1344dc8721fd7d5b",
   "lastOpenFiles": [
+    "To-Do Organizer.canvas",
     "LIsts/List of books I want to read.md",
     "Zettelkasten/Untitled.md",
-    "To-Do Organizer.canvas",
     "Zettelkasten/Ideas for intertwined economy.md",
     "Untitled",
     "Zettelkasten/Ideas for mage battle game.md",
