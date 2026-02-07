@@ -177,6 +177,7 @@ Sciences
 6. Math
 7. English
 8. Electronic circuits and components
+9. Astronomy
 
 Skills
 1. Writing, Poetry

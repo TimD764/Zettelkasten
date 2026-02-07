@@ -11,17 +11,14 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Gambling.canvas",
-                "viewState": {
-                  "x": -868,
-                  "y": 1205,
-                  "zoom": -3.0650839781256387
-                }
+                "file": "Holy Scroll.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Gambling"
+              "icon": "lucide-file",
+              "title": "Holy Scroll"
             }
           }
         ]
@@ -130,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Holy Scroll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Holy Scroll"
             }
           },
           {
@@ -198,6 +195,7 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
+    "Gambling.canvas",
     "Holy Scroll.md",
     "DB subject/Untitled.canvas",
     "DB subject/Pasted image 20260204170341.png",
@@ -213,7 +211,6 @@
     "Ideas/desktop.ini",
     "Ideas",
     "Zettelkasten/Untitled.md",
-    "Gambling.canvas",
     "Habits/Read.md",
     "LIsts/List of books I want to read.md",
     "LIsts/Learning & Ways to reward yourself.md",
