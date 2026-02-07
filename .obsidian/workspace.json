@@ -88,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,7 +180,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
-      "time-ruler:Open Time Ruler": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -192,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "baa4222a51f53b2f",
+  "active": "161c95b7c3bf559c",
   "lastOpenFiles": [
     "To-Do Organizer.canvas",
     "~syncthing~To-Do Organizer.canvas.tmp",
