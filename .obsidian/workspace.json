@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holy Scroll.md",
+                "file": "LIsts/Holy Scroll.md",
                 "mode": "source",
                 "source": false
               },
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Holy Scroll.md",
+                "file": "LIsts/Holy Scroll.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Holy Scroll.md",
+                "file": "LIsts/Holy Scroll.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b46c9dadd500f13",
+  "active": "161c95b7c3bf559c",
   "lastOpenFiles": [
     "Gambling.canvas",
-    "Holy Scroll.md",
+    "LIsts/Holy Scroll.md",
     "DB subject/Untitled.canvas",
     "DB subject/Pasted image 20260204170341.png",
     "DB subject/Pasted image 20260204142106.png",
