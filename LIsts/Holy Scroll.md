@@ -160,13 +160,14 @@ My Fears
 
 
 Hobbies
-1. Pen spin
-2. Writing, Poetry
-3. Sing
-4. Compose texts for songs
-5. Games
-6. Rubik's cube
-7. Singing
+1. Chess
+2. Pen spin
+3. Writing, Poetry
+4. Sing
+5. Compose texts for songs
+6. Games
+7. Rubik's cube
+8. Singing
 
 Sciences
 1. Computer science
