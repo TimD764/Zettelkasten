@@ -154,10 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "Holy Scroll.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Holy Scroll"
             }
           },
           {
@@ -179,7 +182,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -187,11 +189,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "workspaces:Manage workspace layouts": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161c95b7c3bf559c",
+  "active": "baa4222a51f53b2f",
   "lastOpenFiles": [
+    "DB subject/Untitled.canvas",
+    "DB subject/Pasted image 20260204170341.png",
+    "DB subject/Pasted image 20260204142106.png",
+    "DB subject/Pasted image 20260204110113.png",
+    "DB subject/desktop.ini",
+    "DB subject",
     "To-Do Organizer.canvas",
     "~syncthing~To-Do Organizer.canvas.tmp",
     "My vocal stims.md",
@@ -217,8 +226,6 @@
     "Csharp/Untitled.canvas",
     "To-Do Organizer.sync-conflict-20260121-211236-NO66WBG.canvas",
     "~syncthing~To-Do Organizer.sync-conflict-20260121-211236-NO66WBG.canvas.tmp",
-    "Zettelkasten/Untitled 3.base",
-    "Zettelkasten/~syncthing~Untitled 3.base.tmp",
     "Zettelkasten/Untitled 2.md",
     "Zettelkasten/Untitled 1.md",
     "Goals for September.canvas",
