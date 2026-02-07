@@ -11,14 +11,17 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Holy Scroll.md",
-                "mode": "source",
-                "source": false
+                "file": "Gambling.canvas",
+                "viewState": {
+                  "x": -868,
+                  "y": 1205,
+                  "zoom": -3.0650839781256387
+                }
               },
-              "icon": "lucide-file",
-              "title": "Holy Scroll"
+              "icon": "lucide-layout-dashboard",
+              "title": "Gambling"
             }
           }
         ]
@@ -193,8 +196,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baa4222a51f53b2f",
+  "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
+    "Holy Scroll.md",
     "DB subject/Untitled.canvas",
     "DB subject/Pasted image 20260204170341.png",
     "DB subject/Pasted image 20260204142106.png",
@@ -215,7 +219,6 @@
     "LIsts/Learning & Ways to reward yourself.md",
     "Habits/Sport.md",
     "Habits/desktop.ini",
-    "Holy Scroll.md",
     "Habits",
     "Habits/Reading.md",
     "Untitled.md",
