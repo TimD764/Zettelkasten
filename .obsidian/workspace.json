@@ -11,17 +11,14 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Gambling.canvas",
-                "viewState": {
-                  "x": -766.3034441146245,
-                  "y": 405.10311438149324,
-                  "zoom": -0.6892814323310014
-                }
+                "file": "My vocal stims.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Gambling"
+              "icon": "lucide-file",
+              "title": "My vocal stims"
             }
           }
         ]
@@ -130,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gambling.canvas",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gambling"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -157,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gambling.canvas",
+                "file": "Holy Scroll.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gambling"
+              "title": "Outline of Holy Scroll"
             }
           },
           {
@@ -198,15 +195,15 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
-    "To-Do Organizer.canvas",
-    "LIsts/Holy Scroll.md",
-    "Gambling.canvas",
     "DB subject/Untitled.canvas",
+    "Holy Scroll.md",
+    "LIsts/Holy Scroll.md",
     "DB subject/Pasted image 20260204170341.png",
     "DB subject/Pasted image 20260204142106.png",
     "DB subject/Pasted image 20260204110113.png",
     "DB subject/desktop.ini",
     "DB subject",
+    "To-Do Organizer.canvas",
     "~syncthing~To-Do Organizer.canvas.tmp",
     "My vocal stims.md",
     "Ideas/Custom lab coat.md",
@@ -214,6 +211,7 @@
     "Ideas/desktop.ini",
     "Ideas",
     "Zettelkasten/Untitled.md",
+    "Gambling.canvas",
     "Habits/Read.md",
     "LIsts/List of books I want to read.md",
     "LIsts/Learning & Ways to reward yourself.md",
