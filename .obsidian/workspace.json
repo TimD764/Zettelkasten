@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": 171,
                   "y": -79,
-                  "zoom": 0
+                  "zoom": -0.6666666666666666
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -196,7 +196,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b46c9dadd500f13",
+  "active": "161c95b7c3bf559c",
   "lastOpenFiles": [
     "Probable/Pasted image 20260215151329.png",
     "Probable/A1.canvas",
