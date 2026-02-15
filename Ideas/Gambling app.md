@@ -2,4 +2,5 @@ The main idea is to exploit vulnerabilities of the human brain for the sake of t
 1.  Act like gambler fake it till you addicted
 2. Mood swing yourself to get addicted
 3. You can open a chest with productive tasks only after completion you can open chest with pleasures
-4. Optional Feature : to make use of your negative feelings (mood swings to make it more addictive) There is a chance to get an add in productive (and maybe)
+4. Consent Feature : to make use of your negative feelings (mood swings to make it more addictive) There is a chance to get an add in productive (and maybe the reward chest) and you gonna have to increase it's effect with acting
+5. 
