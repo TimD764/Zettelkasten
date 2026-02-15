@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Probable/A1.canvas",
+                "file": "To-Do Organizer.canvas",
                 "viewState": {
-                  "x": 171,
-                  "y": -79,
-                  "zoom": -0.6666666666666666
+                  "x": -1150.3147792974078,
+                  "y": -1188.1557089214145,
+                  "zoom": -0.6400002810846832
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "A1"
+              "title": "To-Do Organizer"
             }
           }
         ]
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probable/A1.canvas",
+                "file": "To-Do Organizer.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of A1"
+              "title": "Outline of To-Do Organizer"
             }
           },
           {
@@ -196,16 +196,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "161c95b7c3bf559c",
+  "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
-    "Probable/Pasted image 20260215151329.png",
+    "Pasted image 20260215155528.png",
+    "To-Do Organizer.canvas",
+    "Pasted image 20260215155441.png",
+    "test/Untitled.canvas",
     "Probable/A1.canvas",
+    "test",
+    "Probable/Pasted image 20260215151329.png",
     "Probable/Pasted image 20260209185118.png",
     "Probable",
     "Holy Scroll.md",
     "Probably.md",
     "Pasted image 20260209184748.png",
-    "To-Do Organizer.canvas",
     "My vocal stims.md",
     "DB subject/Untitled.canvas",
     "DB subject/Pasted image 20260204170341.png",
@@ -228,7 +232,6 @@
     "Habits",
     "Habits/Reading.md",
     "Habits/New Text Document.txt",
-    "Habits",
     "Ideas/Ideas for intertwined economy.md",
     "Ideas/Ideas for mage battle game.md",
     "Csharp/Untitled.canvas",
