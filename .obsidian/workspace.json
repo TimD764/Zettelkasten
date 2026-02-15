@@ -11,17 +11,14 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "To-Do Organizer.canvas",
-                "viewState": {
-                  "x": -1150.3147792974078,
-                  "y": -1188.1557089214145,
-                  "zoom": -0.6400002810846832
-                }
+                "file": "LIsts/Wishlist.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "To-Do Organizer"
+              "icon": "lucide-file",
+              "title": "Wishlist"
             }
           }
         ]
@@ -157,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Do Organizer.canvas",
+                "file": "LIsts/Wishlist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To-Do Organizer"
+              "title": "Outline of Wishlist"
             }
           },
           {
@@ -198,8 +195,11 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
-    "Pasted image 20260215155528.png",
+    "LIsts/Learning & Ways to reward yourself.md",
+    "LIsts/Wishlist.md",
+    "LIsts/Books I want to read.md",
     "To-Do Organizer.canvas",
+    "Pasted image 20260215155528.png",
     "Pasted image 20260215155441.png",
     "test/Untitled.canvas",
     "Probable/A1.canvas",
@@ -225,8 +225,6 @@
     "Zettelkasten/Untitled.md",
     "Gambling.canvas",
     "Habits/Read.md",
-    "LIsts/List of books I want to read.md",
-    "LIsts/Learning & Ways to reward yourself.md",
     "Habits/Sport.md",
     "Habits/desktop.ini",
     "Habits",
