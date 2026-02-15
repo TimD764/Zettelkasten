@@ -11,17 +11,14 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "To-Do Organizer.canvas",
-                "viewState": {
-                  "x": -1064.8084927630484,
-                  "y": -778.1910286319553,
-                  "zoom": -0.981534095519877
-                }
+                "file": "Ideas/Gambling app.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "To-Do Organizer"
+              "icon": "lucide-file",
+              "title": "Gambling app"
             }
           }
         ]
@@ -157,13 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "To-Do Organizer.canvas",
+                "file": "Ideas/Gambling app.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of To-Do Organizer"
+              "title": "Outline of Gambling app"
             }
           },
           {
@@ -198,10 +195,14 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
+    "Ideas/Mage battle game.md",
+    "Ideas/Intertwined economy.md",
+    "Ideas/Gambling app.md",
+    "Ideas/Custom lab coat.md",
+    "To-Do Organizer.canvas",
     "LIsts/Wishlist.md",
     "LIsts/Learning & Ways to reward yourself.md",
     "LIsts/Books I want to read.md",
-    "To-Do Organizer.canvas",
     "Pasted image 20260215155528.png",
     "Pasted image 20260215155441.png",
     "test/Untitled.canvas",
@@ -221,7 +222,6 @@
     "DB subject/desktop.ini",
     "DB subject",
     "~syncthing~To-Do Organizer.canvas.tmp",
-    "Ideas/Custom lab coat.md",
     "Template/Main note.md",
     "Ideas/desktop.ini",
     "Ideas",
@@ -233,8 +233,6 @@
     "Habits",
     "Habits/Reading.md",
     "Habits/New Text Document.txt",
-    "Ideas/Ideas for intertwined economy.md",
-    "Ideas/Ideas for mage battle game.md",
     "Csharp/Untitled.canvas",
     "To-Do Organizer.sync-conflict-20260121-211236-NO66WBG.canvas",
     "Zettelkasten/Untitled 2.md",
