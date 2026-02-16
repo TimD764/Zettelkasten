@@ -11,14 +11,17 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Ideas/Custom lab coat.md",
-                "mode": "source",
-                "source": false
+                "file": "To-Do Organizer.canvas",
+                "viewState": {
+                  "x": -1124.0080608636376,
+                  "y": -721.4349638484048,
+                  "zoom": -0.1346845220454591
+                }
               },
-              "icon": "lucide-file",
-              "title": "Custom lab coat"
+              "icon": "lucide-layout-dashboard",
+              "title": "To-Do Organizer"
             }
           }
         ]
@@ -195,13 +198,13 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
+    "Ideas/Custom lab coat.md",
     "To-Do Organizer.canvas",
     "Gambling.canvas",
     "Ideas/Gambling app.md",
     "Probable/A1.canvas",
     "Ideas/Mage battle game.md",
     "Ideas/Intertwined economy.md",
-    "Ideas/Custom lab coat.md",
     "LIsts/Wishlist.md",
     "LIsts/Learning & Ways to reward yourself.md",
     "LIsts/Books I want to read.md",

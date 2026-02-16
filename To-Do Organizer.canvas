@@ -4,24 +4,27 @@
 		{"id":"3c918cd0548bad85","type":"group","x":-2420,"y":-960,"width":820,"height":399,"label":"Medium term To-Do (Do within next 3 months)"},
 		{"id":"143e581cfdee87fe","type":"group","x":-1133,"y":-960,"width":787,"height":410,"label":"To-do Today"},
 		{"id":"35eb77d75f29b181","type":"group","x":-2526,"y":-1647,"width":656,"height":400,"label":"Small Done"},
-		{"id":"8e772d71545f925c","type":"text","text":"Fast way to insert my name surname mail phone debit card address","x":-1560,"y":-1380,"width":250,"height":100},
-		{"id":"e1a1e7bf42851345","type":"text","text":"Git Obsidian","x":-1122,"y":-951,"width":145,"height":60},
 		{"id":"bca64eb94b27b93c","type":"text","text":"Drops to clear rainy nose","x":-2500,"y":-1607,"width":250,"height":60},
 		{"id":"9ff99e2878e893de","type":"text","text":"Calculate Database grade","x":-2475,"y":-1477,"width":250,"height":60},
 		{"id":"87e6731d8af19757","type":"text","text":" Organise time tracking app","x":-2170,"y":-1432,"width":250,"height":60},
 		{"id":"99c821ff82d9a802","type":"text","text":"Configure time tracker and decide activities to categories","x":-2150,"y":-1627,"width":230,"height":100},
 		{"id":"c28cb6d7332ecc31","type":"text","text":"Patapon wallpaper on PC and patapon ambientce","x":-2170,"y":-1507,"width":250,"height":60},
 		{"id":"42ebb3f3d5c691f7","type":"text","text":"Key from domophobe","x":-2500,"y":-1387,"width":250,"height":60},
-		{"id":"329130d57a268c37","type":"text","text":"Remove YouTube shorts from YouTube","x":-1300,"y":-1489,"width":250,"height":84},
 		{"id":"25b3cc5fd36ea600","type":"text","text":"Move to the Vivaldi browser","x":-1550,"y":-1620,"width":250,"height":60},
+		{"id":"8e772d71545f925c","type":"text","text":"Fast way to insert my name surname mail phone debit card address","x":-1560,"y":-1380,"width":250,"height":100},
+		{"id":"e1a1e7bf42851345","type":"text","text":"Git Obsidian","x":-1122,"y":-951,"width":145,"height":60},
+		{"id":"329130d57a268c37","type":"text","text":"Remove YouTube shorts from YouTube","x":-1300,"y":-1489,"width":250,"height":84},
 		{"id":"bb40676c85a38584","type":"text","text":"Debloat windows script","x":-1122,"y":-891,"width":213,"height":60},
-		{"id":"19e65d7a5f9ae024","x":-1122,"y":-831,"width":200,"height":60,"type":"text","text":"Steal Ipencil from Liz"},
+		{"id":"19e65d7a5f9ae024","type":"text","text":"Steal Ipencil from Liz","x":-1122,"y":-831,"width":200,"height":60},
 		{"id":"47290e0a6cac6c17","type":"text","text":"Negotiate dishwasher","x":-1122,"y":-771,"width":200,"height":60},
-		{"id":"e0f609c476a207aa","type":"text","text":"Set up daily chores","x":-1122,"y":-711,"width":194,"height":60},
 		{"id":"b6eaf1679a135721","type":"text","text":"Linux","x":-1273,"y":-1327,"width":98,"height":50},
 		{"id":"b5ebce97a687afd5","type":"text","text":"CUSTOM LAB COAT","x":-1273,"y":-1620,"width":200,"height":50},
-		{"id":"526b5f0f2bf0a549","x":-1122,"y":-651,"width":167,"height":52,"type":"text","text":"DB Homework"},
-		{"id":"478b69205460ca54","x":-663,"y":-921,"width":181,"height":60,"type":"text","text":"Teeth appointment"}
+		{"id":"526b5f0f2bf0a549","type":"text","text":"DB Homework","x":-1122,"y":-651,"width":167,"height":52},
+		{"id":"478b69205460ca54","type":"text","text":"Teeth appointment","x":-663,"y":-921,"width":181,"height":60},
+		{"id":"e0f609c476a207aa","type":"text","text":"Set up daily chores","x":-922,"y":-629,"width":194,"height":60},
+		{"id":"af9ab9ce8564173d","x":-1092,"y":-418,"width":250,"height":60,"type":"text","text":"Count how many days one wash of your cloths will last"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"3e3392f5be39865f","fromNode":"e0f609c476a207aa","fromSide":"bottom","toNode":"af9ab9ce8564173d","toSide":"top"}
+	]
 }
