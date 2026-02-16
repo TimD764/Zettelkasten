@@ -20,7 +20,7 @@
 		{"id":"e0f609c476a207aa","type":"text","text":"Set up daily chores","x":-1122,"y":-711,"width":194,"height":60},
 		{"id":"b6eaf1679a135721","type":"text","text":"Linux","x":-1273,"y":-1327,"width":98,"height":50},
 		{"id":"b5ebce97a687afd5","type":"text","text":"CUSTOM LAB COAT","x":-1273,"y":-1620,"width":200,"height":50},
-		{"id":"526b5f0f2bf0a549","x":-1122,"y":-651,"width":155,"height":60,"type":"text","text":"DB Homework"},
+		{"id":"526b5f0f2bf0a549","x":-1122,"y":-651,"width":167,"height":52,"type":"text","text":"DB Homework"},
 		{"id":"478b69205460ca54","x":-663,"y":-921,"width":181,"height":60,"type":"text","text":"Teeth appointment"}
 	],
 	"edges":[]
