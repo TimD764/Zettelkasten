@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "To-Do Organizer.canvas",
+                "file": "Gambling.canvas",
                 "viewState": {
-                  "x": -502.612684929033,
-                  "y": -843.0942808103971,
-                  "zoom": -0.46801785537879254
+                  "x": -75.59217301750766,
+                  "y": 2124.8932672502583,
+                  "zoom": -0.8652277295096715
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "To-Do Organizer"
+              "title": "Gambling"
             }
           }
         ]
@@ -198,9 +198,9 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
-    "Ideas/Custom lab coat.md",
     "To-Do Organizer.canvas",
     "Gambling.canvas",
+    "Ideas/Custom lab coat.md",
     "Ideas/Gambling app.md",
     "Probable/A1.canvas",
     "Ideas/Mage battle game.md",
