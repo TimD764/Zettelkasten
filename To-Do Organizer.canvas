@@ -22,7 +22,6 @@
 		{"id":"25b3cc5fd36ea600","type":"text","text":"Move to the Vivaldi browser","x":-744,"y":-1420,"width":250,"height":60},
 		{"id":"4d67d4148fbdb34f","type":"text","text":"Shop on amazon with Liz","x":-754,"y":-1337,"width":250,"height":60},
 		{"id":"bb40676c85a38584","type":"text","text":"Debloat windows script","x":-783,"y":-891,"width":213,"height":60},
-		{"id":"af9ab9ce8564173d","type":"text","text":"Count how many days one wash of your cloths will last","x":-811,"y":-513,"width":250,"height":60},
 		{"id":"b5ebce97a687afd5","type":"text","text":"CUSTOM LAB COAT","x":-467,"y":-1420,"width":200,"height":50},
 		{"id":"329130d57a268c37","type":"text","text":"Remove YouTube shorts from YouTube","x":-467,"y":-1361,"width":250,"height":84},
 		{"id":"109f1f6d9664f716","type":"text","text":"Go with Liz to the shop where she bought iron wings behind an ear and maybe there is chain for my accessories ","x":-217,"y":-1410,"width":280,"height":133},
@@ -106,7 +105,8 @@
 		{"id":"9dd739d3faba7fcf","type":"text","text":"Math?","x":420,"y":-1529,"width":91,"height":60},
 		{"id":"6fda69177644a70f","type":"text","text":"Problem-Solving (Critical thinking??)","x":563,"y":-1528,"width":221,"height":60,"color":"5"},
 		{"id":"b6eaf1679a135721","type":"text","text":"Linux","x":-570,"y":-891,"width":98,"height":50},
-		{"id":"bff3297a35165951","x":-410,"y":-708,"width":250,"height":60,"type":"text","text":"Clean file system"}
+		{"id":"bff3297a35165951","x":-410,"y":-708,"width":250,"height":60,"type":"text","text":"Clean file system"},
+		{"id":"af9ab9ce8564173d","type":"text","text":"Count how many days one wash of your cloths will last","x":-811,"y":-511,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"3e3392f5be39865f","fromNode":"e0f609c476a207aa","fromSide":"bottom","toNode":"af9ab9ce8564173d","toSide":"top"},
