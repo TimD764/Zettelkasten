@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"5faf04f8e8b35020","type":"group","x":294,"y":-2503,"width":926,"height":878,"label":"Skills"},
-		{"id":"dd3fae9faaba439a","type":"group","x":1250,"y":-2503,"width":888,"height":878,"label":"Hobbies"},
+		{"id":"dd3fae9faaba439a","type":"group","x":1250,"y":-2503,"width":901,"height":878,"label":"Hobbies"},
 		{"id":"ad0155310cc8f9f8","type":"group","x":323,"y":-2437,"width":524,"height":781,"label":"Cognition"},
 		{"id":"1fb858bfe409d412","type":"group","x":-794,"y":-1447,"width":984,"height":400,"label":"Short Term To-Do (Do within next week or two)"},
 		{"id":"17495eddaf612fc1","type":"group","x":-2526,"y":-2758,"width":715,"height":516,"label":"Big Done"},
@@ -11,13 +11,13 @@
 		{"id":"fdb8726220f6de25","type":"group","x":-2526,"y":-2140,"width":656,"height":400,"label":"Medium Done"},
 		{"id":"3c918cd0548bad85","type":"group","x":-794,"y":-1940,"width":607,"height":399,"label":"Medium term To-Do (Do within next 3 months)"},
 		{"id":"ee75c51798bec87d","type":"group","x":823,"y":-1541,"width":717,"height":302,"label":"Personal Projects"},
-		{"id":"8455d781ae8ab703","type":"group","x":1270,"y":-2128,"width":613,"height":260,"label":"Low Effort Hobby"},
 		{"id":"a4dde9ad4e4dfc2f","type":"group","x":294,"y":-1541,"width":500,"height":302,"label":"Science and Facts"},
 		{"id":"e632bf1862e2eaeb","type":"group","x":1590,"y":-2443,"width":525,"height":260,"label":"Mid Effort Hobby"},
+		{"id":"8455d781ae8ab703","type":"group","x":1270,"y":-2128,"width":447,"height":260,"label":"Low Effort Hobby"},
 		{"id":"6ce3d0e0e23905cf","type":"group","x":2581,"y":-1122,"width":440,"height":240,"label":"Responsibilities"},
 		{"id":"fbb8538bf3bc509a","type":"group","x":1270,"y":-2443,"width":300,"height":260,"label":"High effort and Time"},
 		{"id":"3ba2612d8d404a23","type":"group","x":871,"y":-2437,"width":340,"height":180,"label":"First Priority"},
-		{"id":"6b652c8e8bcd5dd4","type":"group","x":2998,"y":-1039,"width":204,"height":199,"label":"University"},
+		{"id":"6b652c8e8bcd5dd4","type":"group","x":2919,"y":-1321,"width":204,"height":199,"label":"University"},
 		{"id":"8e772d71545f925c","type":"text","text":"Fast way to insert my name surname mail phone debit card address","x":-754,"y":-1180,"width":250,"height":100},
 		{"id":"25b3cc5fd36ea600","type":"text","text":"Move to the Vivaldi browser","x":-744,"y":-1420,"width":250,"height":60},
 		{"id":"4d67d4148fbdb34f","type":"text","text":"Shop on amazon with Liz","x":-754,"y":-1337,"width":250,"height":60},
@@ -80,9 +80,6 @@
 		{"id":"f6934a5d5d2b9812","type":"text","text":"Clean kitchen","x":2591,"y":-982,"width":146,"height":50},
 		{"id":"5b609511a3bcee36","type":"text","text":"Cook","x":2721,"y":-1052,"width":90,"height":60},
 		{"id":"d526b210eb3c22f5","type":"text","text":"University","x":2731,"y":-1112,"width":130,"height":50},
-		{"id":"39fe8125dbfbc280","type":"text","text":"Probability","x":3008,"y":-1029,"width":155,"height":60},
-		{"id":"5170a1c400601004","type":"text","text":"Design Patterns","x":3008,"y":-969,"width":174,"height":60},
-		{"id":"9e3b3c0df879e4d9","type":"text","text":"Data base","x":3008,"y":-909,"width":131,"height":60},
 		{"id":"5198618c5af7cdb9","type":"text","text":" Electronic circuits and components","x":314,"y":-1521,"width":211,"height":60},
 		{"id":"c78b31e791d0360d","type":"text","text":"Philosophy","x":314,"y":-1441,"width":140,"height":60},
 		{"id":"4e568c1df9ca94cb","type":"text","text":"Math","x":314,"y":-1361,"width":93,"height":60},
@@ -104,7 +101,10 @@
 		{"id":"45d93ae236184010","type":"text","text":"Dance","x":1431,"y":-2118,"width":120,"height":60},
 		{"id":"c97f281607fa9d00","type":"text","text":"Piano","x":1565,"y":-2118,"width":121,"height":60},
 		{"id":"c055809e88bd5af1","type":"text","text":"Singing","x":1279,"y":-2043,"width":135,"height":50},
-		{"id":"2959f997b226cabc","type":"text","text":"Manga","x":1279,"y":-1983,"width":122,"height":50}
+		{"id":"2959f997b226cabc","type":"text","text":"Manga","x":1279,"y":-1983,"width":122,"height":50},
+		{"id":"39fe8125dbfbc280","type":"text","text":"Probability","x":2929,"y":-1311,"width":155,"height":60},
+		{"id":"5170a1c400601004","type":"text","text":"Design Patterns","x":2929,"y":-1251,"width":174,"height":60},
+		{"id":"9e3b3c0df879e4d9","type":"text","text":"Data base","x":2929,"y":-1191,"width":131,"height":60}
 	],
 	"edges":[
 		{"id":"3e3392f5be39865f","fromNode":"e0f609c476a207aa","fromSide":"bottom","toNode":"af9ab9ce8564173d","toSide":"top"},
