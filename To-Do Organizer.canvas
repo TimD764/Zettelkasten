@@ -104,7 +104,8 @@
 		{"id":"2959f997b226cabc","type":"text","text":"Manga","x":1279,"y":-1983,"width":122,"height":50},
 		{"id":"39fe8125dbfbc280","type":"text","text":"Probability","x":2929,"y":-1311,"width":155,"height":60},
 		{"id":"5170a1c400601004","type":"text","text":"Design Patterns","x":2929,"y":-1251,"width":174,"height":60},
-		{"id":"9e3b3c0df879e4d9","type":"text","text":"Data base","x":2929,"y":-1191,"width":131,"height":60}
+		{"id":"9e3b3c0df879e4d9","type":"text","text":"Data base","x":2929,"y":-1191,"width":131,"height":60},
+		{"id":"289ae72114a3f16e","x":-369,"y":-891,"width":250,"height":60,"type":"text","text":"Automated Flash cards"}
 	],
 	"edges":[
 		{"id":"3e3392f5be39865f","fromNode":"e0f609c476a207aa","fromSide":"bottom","toNode":"af9ab9ce8564173d","toSide":"top"},
