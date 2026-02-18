@@ -56,14 +56,17 @@
             "id": "1344dc8721fd7d5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Holy Scroll.md",
-                "mode": "source",
-                "source": false
+                "file": "To-Do Organizer.canvas",
+                "viewState": {
+                  "x": 893.0901438712378,
+                  "y": -1154.553402503779,
+                  "zoom": -2.0249692283746583
+                }
               },
-              "icon": "lucide-file",
-              "title": "Holy Scroll"
+              "icon": "lucide-layout-dashboard",
+              "title": "To-Do Organizer"
             }
           }
         ],
@@ -204,6 +207,18 @@
   },
   "active": "1344dc8721fd7d5b",
   "lastOpenFiles": [
+    "Holy Scroll.md",
+    "LIsts/Wishlist.md",
+    "LIsts/Books I want to read.md",
+    "Ideas/Mage battle game.md",
+    "Ideas/Intertwined economy.md",
+    "Ideas/Gambling app.md",
+    "DB subject/Untitled.canvas",
+    "DB subject/Pasted image 20260204170341.png",
+    "DB subject/Pasted image 20260204142106.png",
+    "DB subject/Pasted image 20260204110113.png",
+    "DB subject/desktop.ini",
+    "DB subject",
     "To-Do Organizer.canvas",
     "LIsts/List of books I want to read.md",
     "Zettelkasten/Untitled.md",
@@ -218,7 +233,6 @@
     "To-Do Organizer.sync-conflict-20260121-211236-NO66WBG.canvas",
     "Gambling.canvas",
     "Algorithm.canvas",
-    "Holy Scroll.md",
     "LIsts/Learning & Ways to reward yourself.md",
     "Zettelkasten/List of books I want to read.md"
   ]
