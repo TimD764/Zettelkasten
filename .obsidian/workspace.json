@@ -15,9 +15,9 @@
               "state": {
                 "file": "To-Do Organizer.canvas",
                 "viewState": {
-                  "x": -274.2182216486063,
-                  "y": -854.7254665225993,
-                  "zoom": -1.1478599107931926
+                  "x": -161.16049276147103,
+                  "y": -549.964566787018,
+                  "zoom": -0.9999999999999996
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -198,6 +198,8 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
+    "HW2Database 1.sql",
+    "HW2Database.sql",
     "Gambling.canvas",
     "To-Do Organizer.canvas",
     "Ideas/Custom lab coat.md",
@@ -235,7 +237,6 @@
     "Habits/desktop.ini",
     "Habits",
     "Habits/Reading.md",
-    "Habits/New Text Document.txt",
     "Csharp/Untitled.canvas",
     "To-Do Organizer.sync-conflict-20260121-211236-NO66WBG.canvas",
     "Zettelkasten/Untitled 2.md",
