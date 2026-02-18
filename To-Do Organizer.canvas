@@ -108,7 +108,8 @@
 		{"id":"97d27d19c279e7c6","type":"text","text":"A site with “levels” of being educated, to upgrade your level you need to read some book for example and know a lot of words","x":1122,"y":-847,"width":250,"height":68},
 		{"id":"8b4e6c0163a5cf4a","type":"text","text":"Debate site :A site where you can debate with someone, with info on how to debate correctly according to logic imperical evidence etc…","x":1122,"y":-897,"width":188,"height":50},
 		{"id":"92ccca87e48d3bf9","x":-235,"y":-1127,"width":103,"height":61,"type":"text","text":"Jarvis"},
-		{"id":"025fb4f9ac2dfc2f","x":-27,"y":-1147,"width":179,"height":54,"type":"text","text":"Lubric the restroom door "}
+		{"id":"025fb4f9ac2dfc2f","x":-27,"y":-1147,"width":179,"height":54,"type":"text","text":"Lubricate the restroom door "},
+		{"id":"0faf4e8ba2a46c54","x":-232,"y":-755,"width":205,"height":51,"type":"text","text":"Clean your PC"}
 	],
 	"edges":[
 		{"id":"3e3392f5be39865f","fromNode":"e0f609c476a207aa","fromSide":"bottom","toNode":"af9ab9ce8564173d","toSide":"top"},
