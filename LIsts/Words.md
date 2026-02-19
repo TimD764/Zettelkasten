@@ -9,9 +9,9 @@ recluse
 foul
 derivative word outside of math
 necessitate
-
-
-
+vengeful sort
+surplus 
+claw back
 
 
 
