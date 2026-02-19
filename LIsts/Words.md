@@ -12,11 +12,13 @@ necessitate
 vengeful sort
 surplus 
 claw back
-
-
-
-
-
-
+subsequently
+reign
+sovereign
+slander 
+thesis, antithesis, and synthesis
+complacent
+stale
+tangible
 
 
