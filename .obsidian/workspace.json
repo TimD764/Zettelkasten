@@ -11,17 +11,14 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "To-Do Organizer.canvas",
-                "viewState": {
-                  "x": -1306.524155911428,
-                  "y": -1804.960388639498,
-                  "zoom": -0.8145265774598591
-                }
+                "file": "LIsts/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "To-Do Organizer"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -198,8 +195,9 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
-    "Gambling.canvas",
     "To-Do Organizer.canvas",
+    "LIsts/Untitled.md",
+    "Gambling.canvas",
     "Ideas/Custom lab coat.md",
     "Ideas/Gambling app.md",
     "Probable/A1.canvas",
