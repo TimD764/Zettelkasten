@@ -7,7 +7,7 @@ devise
 convoluted
 recluse
 foul
-
+derivative word outside of math
 
 
 
