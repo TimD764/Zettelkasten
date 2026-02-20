@@ -5,7 +5,7 @@
 		{"id":"ad0155310cc8f9f8","type":"group","x":343,"y":-2437,"width":504,"height":781,"label":"Cognition"},
 		{"id":"1fb858bfe409d412","type":"group","x":-794,"y":-1447,"width":984,"height":400,"label":"Short Term To-Do (Do within next week or two)"},
 		{"id":"17495eddaf612fc1","type":"group","x":-2526,"y":-2758,"width":715,"height":516,"label":"Big Done"},
-		{"id":"8e1d886d024330fb","type":"group","x":1382,"y":-2614,"width":985,"height":354,"label":"Habits"},
+		{"id":"8e1d886d024330fb","type":"group","x":1382,"y":-2614,"width":985,"height":339,"label":"Habits"},
 		{"id":"143e581cfdee87fe","type":"group","x":-794,"y":-960,"width":787,"height":410,"label":"To-do Today"},
 		{"id":"296a1d2de97aaae3","type":"group","x":-794,"y":-2442,"width":676,"height":400,"label":"Long-Term To-Do"},
 		{"id":"35eb77d75f29b181","type":"group","x":-2526,"y":-1647,"width":656,"height":400,"label":"Small Done"},
