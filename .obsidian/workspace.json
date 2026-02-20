@@ -11,14 +11,17 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "LIsts/Words.md",
-                "mode": "source",
-                "source": false
+                "file": "Gambling.canvas",
+                "viewState": {
+                  "x": 322.13524301838817,
+                  "y": 1780.6233269312859,
+                  "zoom": -1.0944962879181352
+                }
               },
-              "icon": "lucide-file",
-              "title": "Words"
+              "icon": "lucide-layout-dashboard",
+              "title": "Gambling"
             }
           }
         ]
@@ -195,9 +198,9 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
+    "LIsts/Words.md",
     "LIsts/Wishlist.md",
     "To-Do Organizer.canvas",
-    "LIsts/Words.md",
     "Gambling.canvas",
     "Ideas/Custom lab coat.md",
     "Ideas/Gambling app.md",
