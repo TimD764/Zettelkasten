@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Gambling.canvas",
+                "file": "To-Do Organizer.canvas",
                 "viewState": {
-                  "x": 322.13524301838817,
-                  "y": 1780.6233269312859,
-                  "zoom": -1.0944962879181352
+                  "x": 1949.5855822984572,
+                  "y": -2354.549396412723,
+                  "zoom": -1.6229303509201762
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Gambling"
+              "title": "To-Do Organizer"
             }
           }
         ]
@@ -198,10 +198,10 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
+    "Gambling.canvas",
     "LIsts/Words.md",
     "LIsts/Wishlist.md",
     "To-Do Organizer.canvas",
-    "Gambling.canvas",
     "Ideas/Custom lab coat.md",
     "Ideas/Gambling app.md",
     "Probable/A1.canvas",
