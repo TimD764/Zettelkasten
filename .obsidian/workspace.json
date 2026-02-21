@@ -11,17 +11,14 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "To-Do Organizer.canvas",
-                "viewState": {
-                  "x": 1968.6805700326108,
-                  "y": -2708.8152491458313,
-                  "zoom": -1.289597017586843
-                }
+                "file": "LIsts/Words.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "To-Do Organizer"
+              "icon": "lucide-file",
+              "title": "Words"
             }
           }
         ]
@@ -196,12 +193,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baa4222a51f53b2f",
+  "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
+    "To-Do Organizer.canvas",
     "Gambling.canvas",
     "LIsts/Words.md",
     "LIsts/Wishlist.md",
-    "To-Do Organizer.canvas",
     "Ideas/Custom lab coat.md",
     "Ideas/Gambling app.md",
     "Probable/A1.canvas",
