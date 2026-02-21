@@ -11,14 +11,17 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "LIsts/Words.md",
-                "mode": "source",
-                "source": false
+                "file": "To-Do Organizer.canvas",
+                "viewState": {
+                  "x": -428.99548928539747,
+                  "y": -966.0863345890631,
+                  "zoom": -0.4368895251599311
+                }
               },
-              "icon": "lucide-file",
-              "title": "Words"
+              "icon": "lucide-layout-dashboard",
+              "title": "To-Do Organizer"
             }
           }
         ]
@@ -195,9 +198,9 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
-    "To-Do Organizer.canvas",
-    "Gambling.canvas",
     "LIsts/Words.md",
+    "Gambling.canvas",
+    "To-Do Organizer.canvas",
     "LIsts/Wishlist.md",
     "Ideas/Custom lab coat.md",
     "Ideas/Gambling app.md",
