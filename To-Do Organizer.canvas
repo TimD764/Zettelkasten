@@ -7,7 +7,7 @@
 		{"id":"1fb858bfe409d412","type":"group","x":-794,"y":-1447,"width":984,"height":400,"label":"Short Term To-Do (Do within next week or two)"},
 		{"id":"17495eddaf612fc1","type":"group","x":-2526,"y":-2758,"width":715,"height":516,"label":"Big Done"},
 		{"id":"8e1d886d024330fb","type":"group","x":1382,"y":-2614,"width":985,"height":339,"label":"Habits"},
-		{"id":"143e581cfdee87fe","type":"group","x":-794,"y":-960,"width":787,"height":410,"label":"To-do Today"},
+		{"id":"143e581cfdee87fe","type":"group","x":-794,"y":-960,"width":801,"height":383,"label":"To-do Today"},
 		{"id":"296a1d2de97aaae3","type":"group","x":-794,"y":-2442,"width":676,"height":400,"label":"Long-Term To-Do"},
 		{"id":"fdb8726220f6de25","type":"group","x":-2526,"y":-2140,"width":656,"height":400,"label":"Medium Done"},
 		{"id":"3c918cd0548bad85","type":"group","x":-794,"y":-1940,"width":607,"height":399,"label":"Medium term To-Do (Do within next 3 months)"},
@@ -24,7 +24,6 @@
 		{"id":"109f1f6d9664f716","type":"text","text":"Go with Liz to the shop where she bought iron wings behind an ear and maybe there is chain for my accessories ","x":-217,"y":-1410,"width":280,"height":133},
 		{"id":"025fb4f9ac2dfc2f","type":"text","text":"Lubricate the restroom door ","x":-27,"y":-1147,"width":179,"height":54},
 		{"id":"a0c5d9b205e075c0","type":"text","text":"Graphics tablet","x":-296,"y":-1212,"width":167,"height":60},
-		{"id":"b5ebce97a687afd5","type":"text","text":"CUSTOM LAB COAT","x":-467,"y":-1420,"width":200,"height":50},
 		{"id":"329130d57a268c37","type":"text","text":"Remove YouTube shorts from YouTube","x":-467,"y":-1361,"width":250,"height":84},
 		{"id":"8e772d71545f925c","type":"text","text":"Fast way to insert my name surname mail phone debit card address","x":-754,"y":-1180,"width":250,"height":100},
 		{"id":"25b3cc5fd36ea600","type":"text","text":"Move to the Vivaldi browser","x":-744,"y":-1420,"width":250,"height":60},
@@ -35,7 +34,6 @@
 		{"id":"42ebb3f3d5c691f7","type":"text","text":"Key from domophobe","x":-2500,"y":-1387,"width":250,"height":60},
 		{"id":"0faf4e8ba2a46c54","type":"text","text":"Clean your PC","x":-2500,"y":-1313,"width":205,"height":51},
 		{"id":"92ccca87e48d3bf9","type":"text","text":"Jarvis","x":-235,"y":-1127,"width":103,"height":61},
-		{"id":"47290e0a6cac6c17","type":"text","text":"Negotiate dishwasher","x":-783,"y":-771,"width":200,"height":60},
 		{"id":"e0f609c476a207aa","type":"text","text":"Set up daily chores","x":-783,"y":-659,"width":194,"height":60},
 		{"id":"af9ab9ce8564173d","type":"text","text":"Count how many days one wash of your cloths will last","x":-811,"y":-513,"width":250,"height":60},
 		{"id":"c28cb6d7332ecc31","type":"text","text":"Patapon wallpaper on PC and patapon ambientce","x":-2170,"y":-1507,"width":250,"height":60},
@@ -126,8 +124,11 @@
 		{"id":"60347fe50391ed5d","type":"text","text":"PI","x":872,"y":-1612,"width":62,"height":60},
 		{"id":"22a232feb159353b","x":-237,"y":-943,"width":211,"height":75,"type":"text","text":"Psychiatrist and make a list of meds you want"},
 		{"id":"1b559a6af59e86fa","x":-152,"y":-861,"width":129,"height":60,"type":"text","text":"Database"},
-		{"id":"88a54f4bc611add3","x":-487,"y":-943,"width":250,"height":60,"type":"text","text":"Put money on the card to pay bills"},
-		{"id":"19e65d7a5f9ae024","type":"text","text":"Steal Ipencil from Liz","x":-689,"y":-943,"width":200,"height":60}
+		{"id":"19e65d7a5f9ae024","type":"text","text":"Steal Ipencil from Liz","x":-783,"y":-943,"width":200,"height":60},
+		{"id":"88a54f4bc611add3","x":-583,"y":-659,"width":250,"height":60,"type":"text","text":"Put money on the card to pay bills"},
+		{"id":"b5ebce97a687afd5","type":"text","text":"CUSTOM LAB COAT","x":-783,"y":-868,"width":200,"height":50},
+		{"id":"809c73d06c97e419","x":-574,"y":-805,"width":83,"height":60,"type":"text","text":"DIVA"},
+		{"id":"47290e0a6cac6c17","type":"text","text":"Negotiate dishwasher","x":-783,"y":-801,"width":200,"height":60}
 	],
 	"edges":[
 		{"id":"3e3392f5be39865f","fromNode":"e0f609c476a207aa","fromSide":"bottom","toNode":"af9ab9ce8564173d","toSide":"top"},
