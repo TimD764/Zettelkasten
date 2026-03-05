@@ -11,17 +11,12 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "To-Do Organizer.canvas",
-                "viewState": {
-                  "x": 469.1871118484015,
-                  "y": -1055.1725362630946,
-                  "zoom": -0.9999999999999996
-                }
+                "file": "DB subject/Pasted image 20260204110113.png"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "To-Do Organizer"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260204110113"
             }
           }
         ]
@@ -198,8 +193,9 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
-    "LIsts/Words.md",
+    "My vocal stims.md",
     "To-Do Organizer.canvas",
+    "LIsts/Words.md",
     "Gambling.canvas",
     "LIsts/Wishlist.md",
     "Ideas/Custom lab coat.md",
@@ -219,7 +215,6 @@
     "Holy Scroll.md",
     "Probably.md",
     "Pasted image 20260209184748.png",
-    "My vocal stims.md",
     "DB subject/Untitled.canvas",
     "DB subject/Pasted image 20260204170341.png",
     "DB subject/Pasted image 20260204142106.png",
