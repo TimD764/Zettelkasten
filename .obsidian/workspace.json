@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "DB subject/Pasted image 20260204110113.png"
+                "file": "DB subject/Pasted image 20260204142106.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260204110113"
+              "title": "Pasted image 20260204142106"
             }
           }
         ]
@@ -191,8 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b46c9dadd500f13",
+  "active": "161c95b7c3bf559c",
   "lastOpenFiles": [
+    "DB subject/Pasted image 20260204170341.png",
+    "DB subject/Pasted image 20260204110113.png",
     "My vocal stims.md",
     "To-Do Organizer.canvas",
     "LIsts/Words.md",
@@ -216,9 +218,7 @@
     "Probably.md",
     "Pasted image 20260209184748.png",
     "DB subject/Untitled.canvas",
-    "DB subject/Pasted image 20260204170341.png",
     "DB subject/Pasted image 20260204142106.png",
-    "DB subject/Pasted image 20260204110113.png",
     "DB subject/desktop.ini",
     "DB subject",
     "~syncthing~To-Do Organizer.canvas.tmp",
