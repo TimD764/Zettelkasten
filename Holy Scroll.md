@@ -72,8 +72,8 @@ I vow to put a great effort to follow my Life Principles
 66.  Everything you do shapes you
 67.  Not every effort is valued the same. Work hard and smart. Don’t forget to enjoy it
 68.  If you feel overwhelmed by everything you can do, start one thing as soon as possible, remember you can only do 1 thing at a time.
-69.  Given the opportunity gamers will automate fun out of the game. So chill out and stop optimizing your life.
-70.  I don’t want to survive, I want to live!
+69. Given the opportunity gamers will automate fun out of the game. So chill out and stop optimizing your life.
+70. I don’t want to survive, I want to live!
 71. Abra Kadabra speak therefore i create (i create as i speak )
 72. Word is bond
 73. Your words only have impact if they're shared
@@ -84,7 +84,7 @@ I vow to put a great effort to follow my Life Principles
 78. Diversifying your experience is essential to slow the flow of time, create memories and color your life.
 79. Creation itself is a treasure, a pleasure and a magnificent purpose
 80. Only when you're tremendously bored you are truly free, Prime Tim.
-81. Everything you entertain yourself is your future or your prison.
+81. Everything you entertain yourself is either a valuable memory or your prison.
   
   
   
@@ -148,7 +148,7 @@ Questions to ask yourself everyday
 
 My Fears
 1. To kms
-2. A dead Brain (Brain Rot)
+2. A rotten Brain
 3. To live with regrets
 
 50 things i wanna do (Takes a lot of time edition)
