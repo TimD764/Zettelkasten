@@ -83,6 +83,8 @@ I vow to put a great effort to follow my Life Principles
 77. I'm pretty boring, unless I do something about it.
 78. Diversifying your experience is essential to slow the flow of time, create memories and color your life.
 79. Creation itself is a treasure, a pleasure and a magnificent purpose
+80. Only when you're extremely bored you are truly free, the true you (the prime you) (Primonial version of yourself).
+81. Everything you entertain yourself is your future or your prison.
   
   
   
