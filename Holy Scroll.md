@@ -4,7 +4,7 @@ My Principles
 
 I vow to put a great effort to follow my Life Principles
 
-1. What life is awaiting me, what joy what sadness what madness which way my destiny will go? Does it really matter? The thing is, It is up to me for i am the one to decide who I am, because I am who I choose to be. 
+1. What life is awaiting me, what joy what sadness what madness, which way my destiny will go? Does it really matter? The thing is, It is up to me for i am the one to decide who I am, because I am who I choose to be. 
 2. Gratitude turns what you have into enough, so I’m grateful for everything, for …, for…, and for …
 3. Start now. Start with what you already have and know, the only important part is to start.
 4. We tend to complicate things till we master it.
@@ -83,7 +83,7 @@ I vow to put a great effort to follow my Life Principles
 77. I'm pretty boring, unless I do something about it.
 78. Diversifying your experience is essential to slow the flow of time, create memories and color your life.
 79. Creation itself is a treasure, a pleasure and a magnificent purpose
-80. Only when you're tremendously bored you are truly free, Primordial you.
+80. Only when you're tremendously bored you are truly free, Prime Tim.
 81. Everything you entertain yourself is your future or your prison.
   
   
