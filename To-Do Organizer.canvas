@@ -129,9 +129,15 @@
 		{"id":"8e940336a30515a4","type":"text","text":"Nice-smell cloths ","x":1411,"y":-2440,"width":183,"height":60},
 		{"id":"252c8d6b55adf4c9","type":"text","text":"Face","x":1411,"y":-2500,"width":94,"height":60},
 		{"id":"6dae3dbcad87bee8","type":"text","text":"Perfume","x":1505,"y":-2500,"width":114,"height":60},
-		{"id":"3c79ee23e7e433f7","x":3085,"y":-1001,"width":201,"height":91,"type":"text","text":"Fake it till you make it, fake interest and addiction"},
-		{"id":"5c413d6ec1cde1ed","x":3353,"y":-910,"width":250,"height":60,"type":"text","text":"Instead of what i want to do ask who i want to become"},
-		{"id":"28f925ec68e8ab2c","x":2823,"y":-910,"width":146,"height":60,"type":"text","text":"Now or never"}
+		{"id":"e9b02881dfc5fa1a","x":3683,"y":-880,"width":250,"height":123,"type":"text","text":"I am Stoic (I encourage myself to face discomfort to improve my life and enrich my experience)"},
+		{"id":"6c4230991a11ddcc","x":3724,"y":-714,"width":250,"height":123,"type":"text","text":"I am the curious one (The one who’s willing to do their research in things they’re interested)"},
+		{"id":"56540012d6707817","x":3683,"y":-539,"width":250,"height":60,"type":"text","text":"I am caretaker (I will keep my place clean)"},
+		{"id":"e87c5c3c7a970834","x":3622,"y":-434,"width":250,"height":115,"type":"text","text":"I am Tyler Durden I will not let things I do or i have and the content i consume, own me "},
+		{"id":"5c413d6ec1cde1ed","x":3497,"y":-970,"width":250,"height":60,"type":"text","text":"Instead of what i want to do ask who i want to become"},
+		{"id":"3c79ee23e7e433f7","x":3244,"y":-1001,"width":201,"height":91,"type":"text","text":"Fake it till you make it, fake interest and addiction"},
+		{"id":"a8e89618844c6af5","x":3294,"y":-464,"width":250,"height":176,"type":"text","text":"I am Overrider (Default settings don't apply to me I will change my nature every day. I will choose what I enjoy in life, the rest will be boredom)"},
+		{"id":"56b8133ee7ac8c3c","x":2979,"y":-434,"width":250,"height":123,"type":"text","text":"I am a polymath - I have deep knowledge about complicated subjects as well as wide range of skills"},
+		{"id":"28f925ec68e8ab2c","x":3056,"y":-970,"width":146,"height":60,"type":"text","text":"Now or never"}
 	],
 	"edges":[
 		{"id":"3e3392f5be39865f","fromNode":"e0f609c476a207aa","fromSide":"bottom","toNode":"af9ab9ce8564173d","toSide":"top"},
