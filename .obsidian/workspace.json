@@ -11,14 +11,17 @@
             "id": "b26280d24926b101",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Holy Scroll.md",
-                "mode": "source",
-                "source": false
+                "file": "To-Do Organizer.canvas",
+                "viewState": {
+                  "x": 3327.24062575453,
+                  "y": -692.6895094485756,
+                  "zoom": 0.2823397047094666
+                }
               },
-              "icon": "lucide-file",
-              "title": "Holy Scroll"
+              "icon": "lucide-layout-dashboard",
+              "title": "To-Do Organizer"
             }
           }
         ]
@@ -195,8 +198,8 @@
   },
   "active": "b26280d24926b101",
   "lastOpenFiles": [
-    "To-Do Organizer.canvas",
     "Holy Scroll.md",
+    "To-Do Organizer.canvas",
     "LIsts/My vocal stims.md",
     "Ideas/Mage battle game.md",
     "LIsts/Learning & Ways to reward yourself.md",
