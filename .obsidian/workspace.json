@@ -11,17 +11,14 @@
             "id": "4b46c9dadd500f13",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "To-Do Organizer.canvas",
-                "viewState": {
-                  "x": 3308.530741605612,
-                  "y": -737.0633477632568,
-                  "zoom": -0.10355619182659781
-                }
+                "file": "Holy Scroll.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "To-Do Organizer"
+              "icon": "lucide-file",
+              "title": "Holy Scroll"
             }
           }
         ]
@@ -198,8 +195,11 @@
   },
   "active": "4b46c9dadd500f13",
   "lastOpenFiles": [
-    "Gambling.canvas",
+    "Ideas/Mage battle game.md",
+    "LIsts/Learning & Ways to reward yourself.md",
     "To-Do Organizer.canvas",
+    "LIsts/Books I want to read.md",
+    "Gambling.canvas",
     "Holy Scroll.md",
     "My vocal stims.md",
     "DB subject/Pasted image 20260204142106.png",
@@ -210,10 +210,7 @@
     "Ideas/Custom lab coat.md",
     "Ideas/Gambling app.md",
     "Probable/A1.canvas",
-    "Ideas/Mage battle game.md",
     "Ideas/Intertwined economy.md",
-    "LIsts/Learning & Ways to reward yourself.md",
-    "LIsts/Books I want to read.md",
     "Pasted image 20260215155528.png",
     "Pasted image 20260215155441.png",
     "test/Untitled.canvas",
