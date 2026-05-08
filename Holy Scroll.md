@@ -123,25 +123,6 @@ I am Lucie Wonderlock I chose to be silent so my actions would speak on my behal
 9. Life is an effort (Jerry Smith)
 10. What is and always will be, my greatest creation, is me (self love)
 
-
-
-
-Admirable and desirable Traits i want to have
-
-1. Competent (Chores, knowledge, skills)
-2. Consistent
-3. Multifaceted
-4. Educated
-5. Patient
-6. Initiative
-7. Confident
-8. Unwavering curiosity
-9. Charismatic 
-10. Creative
-11. Noble (Not in a arrogant way)
-12. Nerd
-13. Smart
-
 My strengths 
 1. Self-aware
 2. Creativity
