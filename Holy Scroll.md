@@ -89,7 +89,7 @@ I vow to put a great effort to follow my Life Principles
 
 I am Stoic (I encourage myself to face discomfort to improve my life and enrich my experience)
 
-I am a machine (Always working)
+I am a machine (My purpose can be fulfilled with work)
 
 I am the curious one (The one who’s willing to do their research in things they’re interested)
 
