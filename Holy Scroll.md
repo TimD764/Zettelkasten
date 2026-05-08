@@ -61,48 +61,67 @@ I vow to put a great effort to follow my Life Principles
 55.  Failure is feedback; use it to refine your approach.
 56.  Your time is your most valuable asset; spend it wisely.
 57.  The quality of your life is determined by the quality of your questions.
-58.  Embrace discomfort and difficulty.
-59.  Curiosity is the engine of achievement; never stop asking questions.
-60.  Simplicity is the ultimate sophistication; strive for clarity.
-61.  If your days are the same your brain won’t remember it.
-62.  A gift or favor with expectation of something in return is nothing but a manipulation
-63.  If you're not failing then you're not trying
-64.  How did you know you could do it? I just never thought I couldn't.
-65.  I don’t believe in “deep down” I believe all you are is what you do
-66.  Everything you do shapes you
-67.  Not every effort is valued the same. Work hard and smart. Don’t forget to enjoy it
-68.  If you feel overwhelmed by everything you can do, start one thing as soon as possible, remember you can only do 1 thing at a time.
-69. Given the opportunity gamers will automate fun out of the game. So chill out and stop optimizing your life.
-70. I don’t want to survive, I want to live!
-71. Abra Kadabra speak therefore i create (i create as i speak )
-72. Word is bond
-73. Your words only have impact if they're shared
-74. Delicious meal takes TIME to make anything else is junk food, so take it take your time, because anyone can cook.
-75. Things you didn't write have little to no chances for existence
-76. Words are cheap but only actions speak the truth
-77. I'm pretty boring, unless I do something about it.
-78. Diversifying your experience is essential to slow the flow of time, create memories and color your life.
-79. Creation itself is a treasure, a pleasure and a magnificent purpose
-80. Only when you're tremendously bored you are truly free, Prime Tim.
-81. Everything you entertain yourself is either a valuable memory or your prison.
+58.  Curiosity is the engine of achievement; never stop asking questions.
+59.  Simplicity is the ultimate sophistication; strive for clarity.
+60.  If your days are the same your brain won’t remember it.
+61.  A gift or favor with expectation of something in return is nothing but a manipulation
+62.  If you're not failing then you're not trying
+63.  How did you know you could do it? I just never thought I couldn't.
+64.  I don’t believe in “deep down” I believe all you are is what you do
+65.  Everything you do shapes you
+66.  Not every effort is valued the same. Work hard and smart. Don’t forget to enjoy it
+67.  If you feel overwhelmed by everything you can do, start one thing as soon as possible, remember you can only do 1 thing at a time.
+68. Given the opportunity gamers will automate fun out of the game. So chill out and stop optimizing your life.
+69. I don’t want to survive, I want to live!
+70. Abra Kadabra speak therefore i create (i create as i speak)
+71. Word is bond
+72. Your words only have impact if they're shared
+73. Delicious meal takes TIME to make anything else is junk food, so take it take your time, because anyone can cook.
+74. Things you didn't write have little to no chances for existence
+75. Words are cheap but only actions speak the truth
+76. I'm pretty boring, unless I do something about it.
+77. Diversifying your experience is essential to slow the flow of time, create memories and color your life.
+78. Creation itself is a treasure, a pleasure and a magnificent purpose
+79. Only when you're tremendously bored you are truly free.Only when you're tremendously bored you are truly free.
+80. Everything you entertain yourself is either a valuable memory or your prison.
   
-  
-  
+# Personality Affirmations
 
-Affirmations
+I am Stoic (I encourage myself to face discomfort to improve my life and enrich my experience)
 
-1. Action is addictive
-2. Embrace discomfort
-3. Discomfort is addictive
-4. From thought to action instantly
-5. I can’t stop now that I’ve gone this far
-6. I can’t stop now i have no choice
-7. I just never thought i couldn’t (How did you know you could do it?)
-8.  My attacks have no affect on you?..... Who decided that?..... Your darkness swallowed my sun? Who decided that?.............And now for cruel sun........ I will be the one to decide
-9.  I have all the time in the world
-10. Speed is life (Anti-Procrastination Affirm)
-11. Life is an effort
-12. What is and always will be, my greatest creation, is me (self love)
+I am a machine (Always working)
+
+I am the curious one (The one who’s willing to do their research in things they’re interested)
+
+I am a polymath - I have deep knowledge about complicated subjects as well as wide range of skills
+
+I am an Adventurer - Have an eventful life
+
+I am Csavier (Default settings don't apply to me I will change my nature every day. I will choose what I enjoy in life, the rest will be boredom)
+
+I am caretaker (I will keep my place clean)
+
+I am maintainer (I will take care of myself)
+
+I am sentinel - I will deprive myself of short term joy to lower my dopamine baseline in order to transform myself and achieve desired lifestyle
+
+I am Tyler Durden I will not let things I do or i have and the content i consume, own me
+
+I am Lucie Wonderlock I chose to be silent so my actions would speak on my behalf
+
+
+# Affirmations
+
+1. Action and discomfort are addictive
+2. From thought to action instantly
+3. I can’t stop now that I’ve gone this far
+4. I can’t stop now i have no choice
+5. I just never thought i couldn’t (How did you know you could do it?)
+6.  My attacks have no affect on you?..... Who decided that?..... Your darkness swallowed my sun? Who decided that?.............And now for cruel sun........ I will be the one to decide
+7.  I have all the time in the world
+8. Speed is life (Anti-Procrastination Affirm)
+9. Life is an effort (Jerry Smith)
+10. What is and always will be, my greatest creation, is me (self love)
 
 
 
@@ -144,6 +163,7 @@ Questions to ask yourself everyday
 4. Is it unforgettable experience?
 5. Will i regret this in the long term?
 6. Have i lived this day according to my life principles?
+7. Who i want to become (instead of what i want to do right now)
 
 
 My Fears
