@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Holy Scroll.md",
+                "file": "Ideas/Mage battle game.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Holy Scroll"
+              "title": "Mage battle game"
             }
           }
         ]
@@ -195,8 +195,8 @@
   },
   "active": "b26280d24926b101",
   "lastOpenFiles": [
-    "To-Do Organizer.canvas",
     "Holy Scroll.md",
+    "To-Do Organizer.canvas",
     "LIsts/My vocal stims.md",
     "Ideas/Mage battle game.md",
     "LIsts/Learning & Ways to reward yourself.md",
