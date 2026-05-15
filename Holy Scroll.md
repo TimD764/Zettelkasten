@@ -122,6 +122,7 @@ I am Lucie Wonderlock I chose to be silent so my actions would speak on my behal
 8. Speed is life (Anti-Procrastination Affirm)
 9. Life is an effort (Jerry Smith)
 10. What is and always will be, my greatest creation, is me (self love)
+11. I believe in myself, i believe i can solve my problems, i believe i can build lifestyle i desire
 
 My strengths 
 1. Self-aware
