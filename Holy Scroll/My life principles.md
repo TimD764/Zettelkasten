@@ -37,7 +37,7 @@ I vow to put a great effort to follow my Life Principles
 35.  Life is an effort I’ll stop when I die.
 36.  Try to act like an MC of a sort, remember it’s better to be interesting or inspirational to watch.
 37.  You are crazy until you’re successful, then you're a genius.
-38.  Ship in port is always safe, but it wasn’t built for staying in safety indefinitely. It cannot become legendary without exposure to danger 
+38.  Ship in port is always safe, but it wasn’t built for staying in safety indefinitely. It cannot become legendary without exposure to danger. No risk - no story.
 39.  Less theory, more practice.
 40.  Balanced life is a key to happiness.
 41.  You are who you choose to be.
