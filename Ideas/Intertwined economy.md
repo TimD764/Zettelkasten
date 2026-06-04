@@ -12,3 +12,4 @@ You can see what players are doing and you can take advantage of that
 How to add bluff to this game  
 Suppose you can hire NPC's to open up new opportunities or they can do something for you you can also kind off create a spy and if other players decide to hire this NPC so this NPC can betray said player and make 1 action as if that's the player or feed him the wrong data for a while but what if sending a spy could backfired
 
+Governments regions companies community markets stock market black market all operate on different types of economies like silver in harry potter magic world is cheaper then in the human world in one place it's useless but in other very valuable but it's just basic trade therefore boring 
