@@ -29,3 +29,11 @@ You can summon the creature that will fight against YOU so now it 2 vs 1 And you
   
 You can meet certain conditions to earn titles like the chosen one the worthy one mad one genius Insane  
 Or meet conditions to earn the blessing of some god
+
+Majority of your stats are dynamic they fluctuate constantly based on various conditions and your actions and you can convert and mix those stats like alchemy 
+
+Potions and throwing potions
+
+Create buildings and structures like in Fortnite 
+
+You should be able to "create" the situation to win and your opponent should be able to prevent it defend against it or
