@@ -39,3 +39,5 @@ Create buildings and structures like in Fortnite
 You should be able to "create" the situation to win and your opponent should be able to prevent it or defend against it or try to execute their own plan faster than you are
 
 You can put curses on yourself( or your opponent?) those will restrict you in one aspect but will make you stronger or the type of curses(let's call it total curses) that will totally restrict you but if you skillfully dodge your opponent for some time you would be able to "break" that total curse and convert it to the insane buffs maybe ultimate spell or favour of some God
+
+Suppose of on the stats is mana pull you have a lot of mana and there are an attack coming from the enemy but your flight is not that fast and your strength is not that good so maybe by default 
