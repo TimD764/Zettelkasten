@@ -32,6 +32,7 @@ Or meet conditions to earn the blessing of some god
 
 Majority of your stats are dynamic (strength, mana, mana control, foresight, luck, speed, spell rate, intelligence) they fluctuate constantly based on various conditions and your actions and you can convert and mix those stats like alchemy and spells have different formulas for example strength * speed = the amount of damage 
 The classes you choose and the gods that favor you can change what you can and can't convert and the ratio conversion 
+You can also force someone to convert stats like 3 times within certain time interval they could die because convertation puts quite the strain on your body
 
 Potions and throwing potions
 
@@ -42,3 +43,5 @@ You should be able to "create" the situation to win and your opponent should be 
 You can put curses on yourself( or your opponent?) those will restrict you in one aspect but will make you stronger or the type of curses(let's call it total curses) that will totally restrict you but if you skillfully dodge your opponent for some time you would be able to "break" that total curse and convert it to the insane buffs maybe ultimate spell or favour of some God
 
 Suppose of on the stats is mana pull you have a lot of mana and there are an attack coming from the enemy but your flight is not that fast and your strength is not that good so maybe by default you're suppressing your mana and in that situation you release your mana and it warps any magic near you so spells can't reach you but you can't use it more than a couple of times because it's very dangerous it might be used against powerful attacks that can't be redirected (or dodged?) Maybe powerful enough of a mana release can kill the opponent instantly with conditions of course 
+
+You can assemble rules on the go (should take seconds) Like 
