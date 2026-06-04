@@ -31,6 +31,7 @@ You can meet certain conditions to earn titles like the chosen one the worthy on
 Or meet conditions to earn the blessing of some god
 
 Majority of your stats are dynamic (strength, mana, mana control, foresight, luck, speed, spell rate, intelligence) they fluctuate constantly based on various conditions and your actions and you can convert and mix those stats like alchemy and spells have different formulas for example strength * speed = the amount of damage 
+The classes you choose and the gods that favor you can change what you can and can't convert and the ratio conversion 
 
 Potions and throwing potions
 
