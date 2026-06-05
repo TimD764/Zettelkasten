@@ -81,3 +81,5 @@ I vow to put a great effort to follow my Life Principles
 79. Only when you're tremendously bored you are truly free.Only when you're tremendously bored you are truly free.
 80. Everything you entertain yourself is either a valuable memory or your prison.
 81. I have no idea what I'm capable of, if i think it's impossible it's true, if you try over and over again it's suddenly in a realm of possibility.
+82. This is as good as i can do and i still failed.
+83. I can't do everything but i can do anything
