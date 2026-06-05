@@ -33,7 +33,7 @@ Or meet conditions to earn the blessing of some god
 Majority of your stats are dynamic (strength, mana, mana control, foresight, luck, speed, spell rate, intelligence) they fluctuate constantly based on various conditions and your actions and you can convert and mix those stats like alchemy and spells have different formulas for example strength * speed = the amount of damage 
 The classes you choose and the gods that favor you can change what you can and can't convert and the ratio conversion 
 You can also force someone to convert stats like 3 times within certain time interval they could die because convertation puts quite the strain on your body
-Suppose you have background phonk while you're fighting and you can only convert stats only if there is a bit at one point like beats could be at every second in one part in other parts there are no beats so you can't convert energy while there is
+Suppose you have background phonk while you're fighting and you can only convert stats only if there is a beat at one point like beats could be at every second in one part in other parts there are no beats so you can't convert energy while there is no beat
 
 Potions and throwing potions
 
