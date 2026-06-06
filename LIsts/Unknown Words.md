@@ -34,7 +34,7 @@ ponder
 epiphany 
 caveat 
 Entails entail
-
+Juncture point 
 
 
 
