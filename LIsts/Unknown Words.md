@@ -33,7 +33,7 @@ obfuscated
 ponder 
 epiphany 
 caveat 
-
+Entails entail
 
 
 
