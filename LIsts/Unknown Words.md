@@ -38,7 +38,8 @@ Juncture point
 Haphazard 
 Transitory 
 Overhaul
-
+Led to the proverbial rug being pulled out under our feet 
+As inert as cows grazing in a pasture 
 
 
 
