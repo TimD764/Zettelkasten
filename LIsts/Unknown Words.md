@@ -35,7 +35,9 @@ epiphany
 caveat 
 Entails entail
 Juncture point 
-
+Haphazard 
+Transitory 
+Overhaul
 
 
 
