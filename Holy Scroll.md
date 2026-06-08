@@ -13,17 +13,6 @@ Hobbies
 7. Rubik's cube
 8. Singing
 
-Sciences
-1. Computer science
-2. Philosophy
-3. Biology
-4. Chemistry
-5. History
-6. Math
-7. English
-8. Electronic circuits and components
-9. Astronomy
-
 Skills
 1. Writing, Poetry
 2. Fast thinking
