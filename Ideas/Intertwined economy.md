@@ -17,7 +17,7 @@ Governments regions companies community markets stock market black market all op
 Maybe players are playing as companies 
 Or they play as people and can start a company maybe sell or sacrifice the company maybe you can put curses on the company that gets you bonuses when being sacrificed 
 
-Maybe a government, hackers or criminal gangs are standalone NPCs that can act on the situation and the game itself could be or you can play as them or lobby the government and hire the hackers or you can put a bounty on someone's head but if your target can just pay money to the hitman they wont get into trouble. the influence of those groups are constantly fluctuating the bigger the influence the more effect they influence on the world
+Maybe a government, hackers or criminal gangs are standalone NPCs that can act on the situation and the game itself could be a rouge like where actions of certain groups or events and it's consequences are randomised or you can play as them or lobby the government and hire the hackers or you can put a bounty on someone's head but if your target can just pay money to the hitman they wont get into trouble. the influence of those groups are constantly fluctuating the bigger the influence the more effect they influence on the world
 
 You have a reputation and respect a respect of the government, criminal groups or gods themselves you can manipulate the situation to cause 2 groups to clash against each other that will give you an upper hand in something
 
