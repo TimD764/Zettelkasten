@@ -21,3 +21,4 @@ Maybe a government, hackers or criminal gangs are standalone NPCs that can act o
 
 You have a reputation and respect a respect of the government, criminal groups or gods themselves you can manipulate the situation to cause 2 groups to clash against each other that will give you an upper hand in something
 
+The hive mind will be a thing in our game for example in the real world they are a lot of criminal organisations 
