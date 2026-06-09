@@ -47,3 +47,4 @@ Suppose of on the stats is mana pull you have a lot of mana and there are an att
 
 You can assemble rules on the go (should take seconds) Like in Baba is you to change the rules of the world
 
+You have kind of a wheel behind your back you can turn it several times then "release" that wheel and that determine the speed or rhythm speed of your play style and similarly to 

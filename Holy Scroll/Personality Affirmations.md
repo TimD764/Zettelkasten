@@ -1,8 +1,8 @@
-I am Tyler Durden I will not let things I do or i have and the content i consume, own me
+I am Tyler Durden I will not let things I do or have and the content i consume, own me
 
-I am Stoic (I encourage myself to face discomfort to improve my life and enrich my experience)
+I am Stoic (I encourage myself to face discomfort and deprive myself from cheap dopamine to improve my life and enrich my experience)
 
-I am a machine (My purpose can be fulfilled with work)
+I am a machine (My purpose can only be fulfilled with work)
 
 I am the curious one (The one who’s willing to do their research in things they’re interested)
 
@@ -15,8 +15,6 @@ I am Csavier (Default settings don't apply to me I will change my nature every d
 I am caretaker (I will keep my place clean)
 
 I am maintainer (I will take care of myself)
-
-I am sentinel - I will deprive myself of short term joy to lower my dopamine baseline in order to transform myself and achieve desired lifestyle
 
 I am Lucie Wonderlock I chose to be silent so my actions would speak on my behalf
 overclocked mind
