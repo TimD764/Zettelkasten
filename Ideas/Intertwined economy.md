@@ -16,3 +16,5 @@ Governments regions companies community markets stock market black market all op
 
 Maybe players are playing as companies 
 Or they play as people and can start a company maybe sell or sacrifice the company maybe you can put curses on the company that gets you bonuses when being sacrificed 
+
+Maybe a government, hackers or criminal gangs are standalone NPCs that can act on the situation or you can play as them or lobb
