@@ -26,8 +26,8 @@ pearly gates
 pandemonium
 prophet
 appendage
-pilgrimage
-sedimentary
+pilgramige
+cedimentary
 implore you
 obfuscated
 ponder 
@@ -38,10 +38,13 @@ Juncture point
 Haphazard 
 Transitory 
 Overhaul
-Led to the proverbial rug being pulled out under our feet 
+Led to the proverbial rug being pulled out under our feet
 As inert as cows grazing in a pasture 
-purgatory
-
-
+Ineptitude
+Exposition
+Advent
+Prerequisite 
+Inundated
+Exemplify
 
 
