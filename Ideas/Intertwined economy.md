@@ -21,4 +21,4 @@ Maybe a government, hackers or criminal gangs are standalone NPCs that can act o
 
 You have a reputation and respect a respect of the government, criminal groups or gods themselves you can manipulate the situation to cause 2 groups to clash against each other that will give you an upper hand in something
 
-The hive mind will be a thing in our game for example in the real world they are a lot of criminal organisations 
+The hive mind will be a thing in our game for example in the real world they are a lot of criminal organisations but compared to total population they are quite small not to mention they fight against each other. So with hive mind if the conditions are met small group can "infect" others with their ideas that way they can grow very fast and like in chess there are smart ways to expand your hive mind and there are always a way to prevent expansion of your enemy's hive mind 
