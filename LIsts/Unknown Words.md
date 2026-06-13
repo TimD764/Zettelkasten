@@ -26,8 +26,8 @@ pearly gates
 pandemonium
 prophet
 appendage
-pilgramige
-cedimentary
+pilgrimage
+sedimentary
 implore you
 obfuscated
 ponder 
@@ -40,7 +40,7 @@ Transitory
 Overhaul
 Led to the proverbial rug being pulled out under our feet 
 As inert as cows grazing in a pasture 
-
+purgatory
 
 
 
