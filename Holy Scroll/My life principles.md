@@ -84,3 +84,4 @@ I vow to put a great effort to follow my Life Principles
 82. This is as good as i can do and i still failed.
 83. I can't do everything but i can do anything.
 84. Doom scrolling is a symptom of a life unfulfilled.
+85. It's either move fast or die unpleasantly.
