@@ -51,3 +51,4 @@ Exert exertion
 Hazy
 Readily 
 purgatory
+Hormesis- small repeated doses of stress make biological systems stronger over time
