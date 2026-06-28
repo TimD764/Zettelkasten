@@ -4,4 +4,4 @@ You're such a sweet boy - a girl from small town in Lithuania
 
 Damn, i know this kind of mindset
 
-I don't see any pupular games in y
+I don't see any pupular games in yoour library
