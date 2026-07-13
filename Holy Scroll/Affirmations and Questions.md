@@ -21,3 +21,4 @@ Questions to ask yourself everyday
 5. Will i regret this in the long term?
 6. Have i lived this day according to my life principles?
 7. Who i want to become (instead of what i want to do right now)
+8. Will it be important in 5 years?
