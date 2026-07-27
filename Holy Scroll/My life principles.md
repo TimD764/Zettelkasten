@@ -1,7 +1,7 @@
 I vow to put a great effort to follow my Life Principles
 
-1. What life is awaiting me, what joy what sadness what madness, which way my destiny will go? Does it really matter? The thing is, It is up to me for i am the one to decide who I am, because I am who I choose to be. 
-2. Gratitude turns what you have into enough, so I’m grateful for everything, for …, for…, and for …
+1. What life is awaiting me, what joy what sadness what madness, which way my destiny will go? Does it really matter? It is up to me for i am the one to decide who I am, because I am who I choose to be. 
+2. Gratitude turns what you have into enough.
 3. Start now. Start with what you already have and know, the only important part is to start.
 4. We tend to complicate things till we master it.
 5. It doesn’t matter how many days you’ll live, it matters how much life in your days.
@@ -13,7 +13,7 @@ I vow to put a great effort to follow my Life Principles
 11.  It seems like if you killed just a day worth of time it’s not a big deal but the day will come and you realize you lived for a hundred years, and nobody said to you that you were late.
 12.  Adults could behave irresponsibly and children could take responsibility. Whether you're an adult or not is not determined by your age, it’s a decision.
 13.  You have only one body for Life, you can’t just get a new one so take good care of it.
-14.  Breaking point is when you about to give up
+14.  Turning point is when you about to give up
 15.  You must break the pattern or the loop will repeat itself tomorrow.
 16.  You don't need more time, you need more focus.
 17.  You either suffer from boredom or disease(useless suffering) or you suffer on your way to your goal(useful), suffering is inevitable but you can choose which one, and there is so much suffering life can give you.
@@ -64,8 +64,8 @@ I vow to put a great effort to follow my Life Principles
 62.  If you're not failing then you're not trying
 63.  How did you know you could do it? I just never thought I couldn't.
 64.  I don’t believe in “deep down” I believe all you are is what you do
-65.  Everything you do shapes you
-66.  Not every effort is valued the same. Work hard and smart. Don’t forget to enjoy it
+65.  Everything you do shapes you, everything you think shapes you.
+66.  Not every effort is valued the same. Work hard and smart. Don’t forget to enjoy it otherwise you wouldn't last.
 67.  If you feel overwhelmed by everything you can do, start one thing as soon as possible, remember you can only do 1 thing at a time.
 68. Given the opportunity gamers will automate fun out of the game. So chill out and stop optimizing your life.
 69. I don’t want to survive, I want to live!
@@ -78,10 +78,13 @@ I vow to put a great effort to follow my Life Principles
 76. I'm pretty boring, unless I do something about it.
 77. Diversifying your experience is essential to slow the flow of time, create memories and color your life.
 78. Creation itself is a treasure, a pleasure and a magnificent purpose
-79. Only when you're tremendously bored you are truly free.Only when you're tremendously bored you are truly free.
+79. Only when you're tremendously bored you are truly free.
 80. Everything you entertain yourself is either a valuable memory or your prison.
 81. I have no idea what I'm capable of, if i think it's impossible it's true, if you try over and over again it's suddenly in a realm of possibility.
 82. This is as good as i can do and i still failed.
 83. I can't do everything but i can do anything.
 84. Doom scrolling is a symptom of a life unfulfilled.
-85. It's either move fast or die unpleasantly.
+85. The limits of my language is the limits of my world.
+86. Name it to tame it
+87. Language is a thinking tool
+88. It's either move fast or die unpleasantly
