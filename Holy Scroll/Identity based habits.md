@@ -4,3 +4,4 @@ Urbane - used to distinguish polished, highly cultivated city-dwellers and noble
 
 Polymath - I strive to acquire skills from various domains for fun and benefit
 
+Philomath 
