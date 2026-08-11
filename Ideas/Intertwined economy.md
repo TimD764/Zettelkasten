@@ -24,3 +24,7 @@ You have a reputation and respect a respect of the government, criminal groups o
 The hive mind will be a thing in our game for example in the real world they are a lot of criminal organisations but compared to total population they are quite small not to mention they fight against each other. So with hive mind if the conditions are met small group can "infect" others with their ideas that way they can grow very fast and like in chess there are smart ways to expand your hive mind and there are always a way to prevent expansion of your enemy's hive mind 
 
 Suppose there are resources of the world like coal of the price of something important if the price or the amount are too low or too high something happens like it's gonna trigger some events
+
+Suppose you made a terrible bet and it looks like you're going to lose it so you double down on it and that would change actual situation you can triple or even quadruple down for complete chaos 
+
+You can deliberately make poor choices because it will benefit you because you have a god on your side that reverse the situation 
