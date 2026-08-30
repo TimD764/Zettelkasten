@@ -9,11 +9,11 @@ Hobbies
 8. Singing
 
 Skills
-1. Writing, Poetry
-2. Fast thinking
-3. Quick witted
-4. Memory
-5. Cooking
-6. Singing
-7. Dancing
-8. Typing
+1. Fast thinking
+2. Memory
+3. Typing
+4. Writing, Poetry
+5. Quick witted
+6. Cooking
+7. Singing
+8. Dancing

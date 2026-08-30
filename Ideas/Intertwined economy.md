@@ -28,3 +28,7 @@ Suppose there are resources of the world like coal of the price of something imp
 Suppose you made a terrible bet and it looks like you're going to lose it so you double down on it and that would change actual situation you can triple or even quadruple down for complete chaos 
 
 You can deliberately make poor choices because it will benefit you because you have a god on your side that reverse the situation 
+
+There is some benefits to breaking the local or international law like you lose the trust or the ability to use some legal business but open the possibility to use illegal businesses
+
+If you can make an enemy out of every organisation or country you will earn the protection of the god of betrayal

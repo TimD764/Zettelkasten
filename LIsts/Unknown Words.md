@@ -53,3 +53,9 @@ Readily
 purgatory
 Hormesis- small repeated doses of stress make biological systems stronger over time
 heed
+Socially inept
+Bespectacled 
+Apricot
+Cirrhosis of the liver 
+Adhere adherence 
+Inexcusable 
