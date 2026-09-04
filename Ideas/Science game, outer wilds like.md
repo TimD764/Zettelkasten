@@ -8,3 +8,7 @@ You have to forge your own path that will determine the ending like outer wilds.
 You can change the rules of the world
 
 When you do something some marks can appear on your lab coat 
+
+Every character can influence the world so by telling them something the rules will change 
+
+You can change the rules of the world by praying or chanting to some god or quoting a character 
