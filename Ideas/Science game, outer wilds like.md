@@ -13,4 +13,4 @@ Every character can influence the world so by telling them something the rules w
 
 You can change the rules of the world by praying or chanting to some god or quoting a character 
 
-You do hear voices in your head some if them is your different personality, some of them is a real character
+You can travel through timelines by dying and the plot twist in the end is that the villain will be able to do this and their voice was one of the voices in your head
