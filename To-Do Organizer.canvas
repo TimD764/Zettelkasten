@@ -135,9 +135,10 @@
 		{"id":"4081728ecbd903d5","type":"text","text":"One by one, one step at a time","x":3042,"y":-341,"width":151,"height":90},
 		{"id":"28f925ec68e8ab2c","type":"text","text":"Now or never","x":3268,"y":-326,"width":146,"height":60},
 		{"id":"282acabf1c1c7dbd","type":"text","text":"From thought to action instantly","x":3358,"y":-198,"width":218,"height":60},
-		{"id":"393f6b019a165c5f","x":2801,"y":-1061,"width":129,"height":60,"type":"text","text":"Routines"},
-		{"id":"b5dc91e12333554b","x":2930,"y":-1200,"width":209,"height":63,"type":"text","text":"Events/Responabilities"},
-		{"id":"b595e3e6742585e8","x":2700,"y":-1256,"width":101,"height":56,"type":"text","text":"Chores"}
+		{"id":"b595e3e6742585e8","x":2700,"y":-1256,"width":101,"height":56,"type":"text","text":"Chores"},
+		{"id":"393f6b019a165c5f","x":2686,"y":-1061,"width":129,"height":60,"type":"text","text":"Routines"},
+		{"id":"ee8494838c30361d","x":3023,"y":-1061,"width":100,"height":60,"type":"text","text":"To-Do"},
+		{"id":"b5dc91e12333554b","x":3023,"y":-1259,"width":98,"height":63,"type":"text","text":"Events"}
 	],
 	"edges":[
 		{"id":"3e3392f5be39865f","fromNode":"e0f609c476a207aa","fromSide":"bottom","toNode":"af9ab9ce8564173d","toSide":"top"},
@@ -177,8 +178,9 @@
 		{"id":"01255d700eabd25e","fromNode":"e4bdb78108dba09f","fromSide":"top","toNode":"4081728ecbd903d5","toSide":"left"},
 		{"id":"0861a8d68ee29244","fromNode":"4081728ecbd903d5","fromSide":"right","toNode":"28f925ec68e8ab2c","toSide":"left"},
 		{"id":"4274a9fff55721e0","fromNode":"56540012d6707817","fromSide":"bottom","toNode":"e87c5c3c7a970834","toSide":"top"},
-		{"id":"cfdd718d3a39dd20","fromNode":"b5dc91e12333554b","fromSide":"bottom","toNode":"393f6b019a165c5f","toSide":"right"},
-		{"id":"756cb8b80e1afc32","fromNode":"393f6b019a165c5f","fromSide":"left","toNode":"b595e3e6742585e8","toSide":"bottom"},
-		{"id":"041e35d3d8c40d8b","fromNode":"b595e3e6742585e8","fromSide":"right","toNode":"b5dc91e12333554b","toSide":"top"}
+		{"id":"041e35d3d8c40d8b","fromNode":"b595e3e6742585e8","fromSide":"right","toNode":"b5dc91e12333554b","toSide":"left"},
+		{"id":"913fb80d35bf8a9f","fromNode":"b5dc91e12333554b","fromSide":"bottom","toNode":"ee8494838c30361d","toSide":"top"},
+		{"id":"0e1b0ff0c43606c0","fromNode":"393f6b019a165c5f","fromSide":"top","toNode":"b595e3e6742585e8","toSide":"bottom"},
+		{"id":"6d32caa20b43095f","fromNode":"ee8494838c30361d","fromSide":"left","toNode":"393f6b019a165c5f","toSide":"right"}
 	]
 }
