@@ -7,7 +7,7 @@
 		{"id":"1fb858bfe409d412","type":"group","x":-794,"y":-1447,"width":984,"height":400,"label":"Short Term To-Do (Do within next week or two)"},
 		{"id":"8e1d886d024330fb","type":"group","x":1382,"y":-2614,"width":985,"height":339,"label":"Habits"},
 		{"id":"143e581cfdee87fe","type":"group","x":-794,"y":-960,"width":801,"height":383,"label":"To-do Today"},
-		{"id":"7541cdc884608b20","x":2575,"y":-1340,"width":733,"height":403,"type":"group","label":"Functional Loop"},
+		{"id":"7541cdc884608b20","x":2575,"y":-1340,"width":709,"height":407,"type":"group","label":"Functional Loop"},
 		{"id":"296a1d2de97aaae3","type":"group","x":-794,"y":-2442,"width":676,"height":400,"label":"Long-Term To-Do"},
 		{"id":"3c918cd0548bad85","type":"group","x":-794,"y":-1940,"width":607,"height":399,"label":"Medium term To-Do (Do within next 3 months)"},
 		{"id":"ee75c51798bec87d","type":"group","x":852,"y":-917,"width":717,"height":302,"label":"Personal Projects"},
