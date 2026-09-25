@@ -17,3 +17,5 @@ Skills
 6. Cooking
 7. Singing
 8. Dancing
+9. Pronunciation
+10. Voice acting

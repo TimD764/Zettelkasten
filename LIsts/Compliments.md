@@ -8,3 +8,5 @@ Damn, i know this kind of mindset will create unforgettable memories
 I don't see any popular games in your library
 
 You have crazy games 
+
+It's a pleasure to talk to you - Agatha
