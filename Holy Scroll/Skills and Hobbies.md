@@ -18,4 +18,5 @@ Skills
 7. Singing
 8. Dancing
 9. Pronunciation
-10. Voice acting
+10. Voice acting - Deep - soft - lady
+11. Vocabulary
