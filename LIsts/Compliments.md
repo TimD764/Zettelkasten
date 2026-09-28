@@ -10,3 +10,5 @@ I don't see any popular games in your library
 You have crazy games 
 
 It's a pleasure to talk to you - Agatha
+
+You got all the cool games
