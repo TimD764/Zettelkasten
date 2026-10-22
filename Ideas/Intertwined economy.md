@@ -33,6 +33,6 @@ There is some benefits to breaking the local or international law like you lose 
 
 If you can make an enemy out of every organisation or country you will earn the protection of the god of betrayal
 
-Maybe There are enforcers of god's will, they will punish you for violating the rules
+Maybe There are enforcers of god's will, they will punish you for violating the rules maybe you can bribe them too?
 
 With enough bribery their emotions (potential game mechanic?) will kind of forced them to accept the bribe because it's so big
