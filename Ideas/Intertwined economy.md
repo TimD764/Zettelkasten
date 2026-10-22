@@ -32,3 +32,7 @@ You can deliberately make poor choices because it will benefit you because you h
 There is some benefits to breaking the local or international law like you lose the trust or the ability to use some legal business but open the possibility to use illegal businesses
 
 If you can make an enemy out of every organisation or country you will earn the protection of the god of betrayal
+
+Maybe There are enforcers of god's will, they will punish you for violating the rules
+
+With enough bribery their emotions (potential game mechanic?) will kind of forced them to accept the bribe because it's so big
