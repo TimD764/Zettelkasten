@@ -13,4 +13,4 @@ It's a pleasure to talk to you - Agatha
 
 You got all the cool games
 
-Thank you for being a fan of 
+Thank you for being a fan of outer wilds - aria friend from Kaunas 
