@@ -59,3 +59,7 @@ Apricot
 Cirrhosis of the liver 
 Adhere adherence 
 Inexcusable 
+Commodity
+Zeingiest
+Hedge the odds
+Arrange the particulars
