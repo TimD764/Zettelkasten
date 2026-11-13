@@ -65,3 +65,6 @@ Hedge the odds
 Arrange the particulars
 Incidentally
 I neglected to mention
+I'm glad you're so quick on the uptake 
+I'll show the futility Of your efforts futile
+Regalia
